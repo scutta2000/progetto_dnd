@@ -1,5 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
 /.vs
+/.gitignore
+
+##Questo fa in modo che non pushi nessuno file tipo exe
+/**.exe
