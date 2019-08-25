@@ -36,5 +36,8 @@ int main(){
     std::cout << "-------------------" << '\n';
   }
 
+  //TODO in vece che stampare salvare in un array i valori letti
+
+
   ip.close();
 }
