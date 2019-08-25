@@ -1,0 +1,1685 @@
+Clima,Fonte,Gs,Nome,Sottotipo,Terreno,Tipo
+"Caldi, Temperati",Guida alla Magia,1/8,Millepiedi Domestico,,"Foreste, Sotterranei",Parassita
+"Caldi, Temperati",Bestiario 1,1/8,Pipistrello,,"Deserti, Foreste",Animale
+"Temperati, Tropicali",Guida alla Magia,1/8,Riccio,,Foreste,Animale
+"Caldi, Temperati",Bestiario 1,1/8,Rospo,,Foreste,Animale
+Temperati,Bestiario 1,1/6,Corvo,,Qualsiasi,Animale
+"Caldi, Temperati",Bestiario 1,1/6,Lucertola,,Qualsiasi,Animale
+Caldi,Bestiario 4,1/6,Ornitorinco,,Foreste,Animale
+"Temperati, Tropicali",Guida alla Magia,1/6,Tartaruga,,"Fiumi, Foreste, Oceani",Animale
+"Caldi, Temperati",Bestiario 4,1/4,Archaeopteryx,,Foreste,Animale
+Temperati,Bestiario 1,1/4,Coboldo,Rettile,"Foreste, Sotterranei",Umanoide
+"Caldi, Temperati",Bestiario 4,1/4,Dodo,,Isole,Animale
+Qualsiasi,Bestiario 4,1/4,Fatina dei Denti,Extraplanare,"Pianure, Urbani",Folletto
+"Caldi, Temperati",Bestiario 1,1/4,Gatto,,"Pianure, Urbani",Animale
+Qualsiasi,Bestiario 4,1/4,Gerride Ninfa,,Acquatici,Parassita
+Qualsiasi,Bestiario 1,1/4,Gnefro,,Sotterranei,Folletto
+Qualsiasi,Guida alla Magia,1/4,Granchio Reale,Acquatico,Acquatici,Parassita
+Qualsiasi,Bestiario 3,1/4,Lontra,,Acquatici,Animale
+"Caldi, Temperati",Bestiario 1,1/4,Millepiedi delle Fogne,,"Foreste, Sotterranei",Parassita
+Temperati,Bestiario 3,1/4,Porcospino,,"Foreste, Pianure",Animale
+Temperati,Bestiario 3,1/4,Puzzola,,Foreste,Animale
+-,Bestiario 4,1/4,Ragno Scarlatto,,Qualsiasi,Parassita
+Temperati,Guida alla Magia,1/4,Ratto Asino,,"Foreste, Zone Costiere",Animale
+Caldi,Bestiario 1,1/4,Scimmia,,Foreste,Animale
+"Caldi, Temperati",Bestiario 4,1/4,Scorpione Pungiglione Verde,,Foreste,Parassita
+Temperati,Bestiario 1,1/4,Topo,,Qualsiasi,Animale
+Temperati,Bestiario 4,1/4,Tuatara,,Isole,Animale
+-,Bestiario 3,1/4,Volpe,,Qualsiasi,Animale
+-,Bestiario 3,1/3,"Animale da Pascolo, Capra",,Qualsiasi,Animale
+-,Bestiario 1,1/3,Cane,,Qualsiasi,Animale
+Temperati,Bestiario 4,1/3,Cigno Trombettiere,,"Laghi, Paludi",Animale
+-,Bestiario 4,1/3,Decapitato,,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 1,1/3,Drow,Elfo,Sotterranei,Umanoide
+Qualsiasi,Bestiario 1,1/3,Duergar,Nano,Sotterranei,Umanoide
+Temperati,Bestiario 1,1/3,Falco,,Foreste,Animale
+Temperati,Bestiario 1,1/3,Goblin,Goblinoide,"Foreste, Pianure solitamente Costiere",Umanoide
+Qualsiasi,Bestiario 4,1/3,"Gremlin, Grimple",,Urbani,Folletto
+Temperati,Bestiario 1,1/3,Gufo,,Foreste,Animale
+-,Bestiario 3,1/3,Maiale,,Qualsiasi,Animale
+Temperati,Bestiario 1,1/3,Marinide,Acquatico,Oceani,Umanoide
+Temperati,Bestiario 1,1/3,Orco,,"Colline, Montagne, Sotterranei",Umanoide
+Caldi,Bestiario 2,1/3,Pastinaca Giovane,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 1,1/3,Ratto Crudele,,Urbani,Animale
+Temperati,Bestiario 3,1/3,Rattoide,,"Deserti, Urbani",Umanoide
+-,Bestiario 1,1/3,Scarabeo del Fuoco,,Qualsiasi,Parassita
+-,Bestiario 1,1/3,Scheletro,,Qualsiasi,Non Morto
+Temperati,Bestiario 3,1/3,Scoiattolo Volante,,Foreste,Animale
+Temperati,Bestiario 3,1/3,Spiritello,,Foreste,Folletto
+"Caldi, Temperati",Bestiario 2,1/3,Tartaruga Azzannatrice,,"Acquatici, Spiagge",Animale
+Temperati,Guida alla Magia,1/3,Tordo,,Foreste,Animale
+-,Bestiario 1,1/2,Aasimar,Nativo,Qualsiasi,Esterno
+Temperati,Bestiario 4,1/2,Alpluachra,Acquatico,"Acque Dolci, Foreste",Folletto
+"Caldi, Temperati",Bestiario 3,1/2,"Animale da Pascolo, Antilope",,Pianure,Animale
+Temperati,Bestiario 1,1/2,Aquila,,Montagne,Animale
+Caldi,Bestiario 3,1/2,Avvoltoio,,"Colline, Pianure",Animale
+Caldi,Bestiario 2,1/2,Babbuino,,"Foreste, Pianure",Animale
+-,Bestiario 2,1/2,Blatta Gigante,,Qualsiasi,Parassita
+Temperati,Bestiario 1,1/2,"Cavallo, Pony",,Pianure,Animale
+-,Bestiario 4,1/2,Changeling,Changeling,Qualsiasi,Umanoide
+Qualsiasi,Bestiario 1,1/2,Delfino,,Oceani,Animale
+-,Bestiario 2,1/2,Dhampir,,Qualsiasi,Umanoide
+"Caldi, Temperati",Bestiario 2,1/2,"Dinosauro, Compsognato",,"Foreste, Pianure",Animale
+Temperati,Bestiario 1,1/2,Donnola,,Colline,Animale
+"Caldi, Temperati",Bestiario 3,1/2,Felinide,Felinide,"Foreste, Pianure, Urbani",Umanoide
+"Caldi, Temperati",Bestiario 4,1/2,"Formian, Lavoratore",,"Sotterranei, Terreni",Umanoide Mostruoso
+Temperati,Bestiario 4,1/2,Gathlain,,"Foreste, Giungle",Folletto
+-,Bestiario 2,1/2,Ghermito,Nativo,Qualsiasi (Piano dell'Ombra),Esterno
+Qualsiasi,Bestiario 1,1/2,Granchio del Cocco,Acquatico,Acquatici,Parassita
+Temperati,Bestiario 4,1/2,"Gremlin, Haniver",Acquatico,Zone Costiere,Folletto
+Caldi,Bestiario 2,1/2,"Gremlin, Pugwampi",,Colline,Folletto
+Qualsiasi,Bestiario 2,1/2,Grindylow,Acquatico,Acquatici,Aberrazione
+Caldi,Bestiario 2,1/2,Grippli,Grippli,"Foreste, Paludi",Umanoide
+Temperati,Bestiario 3,1/2,Gufo della Vigna,,Foreste,Animale
+Temperati,Bestiario 1,1/2,Hobgoblin,Goblinoide,Colline,Umanoide
+Qualsiasi,Bestiario 2,1/2,Ifrit,Nativo,Terreni,Esterno
+-,Bestiario 4,1/2,Isitoq,,Qualsiasi,Non Morto
+Caldi,Bestiario 4,1/2,Kasatha,Kasatha,Deserti,Umanoide
+Temperati,Bestiario 4,1/2,Kitsune,"Kitsune, Mutaforma","Colline, Foreste, Montagne",Umanoide
+"Temperati, Tropicale",Bestiario 2,1/2,Larva di Mosca Gigante,,Qualsiasi,Parassita
+Qualsiasi,Bestiario 3,1/2,"Leshy, Foglia","Leshy, Mutaforma","Colline, Foreste",Vegetale
+"Caldi, Temperati",Bestiario 2,1/2,Locathah,Acquatico,Acquatici,Umanoide
+-,Bestiario 2,1/2,Mano Strisciante,,Qualsiasi,Non Morto
+Temperati,Bestiario 3,1/2,"Marsupiale, Canguro",,"Colline, Pianure",Animale
+Caldi,Bestiario 3,1/2,"Marsupiale, Tilacino",,Colline,Animale
+-,Bestiario 3,1/2,"Meccanico, Spia",Meccanico,Qualsiasi,Costrutto
+"Caldi, Temperati",Bestiario 1,1/2,Millepiedi Gigante,,"Foreste, Sotterranei",Parassita
+Caldi,Bestiario 4,1/2,Nagaji,Rettile,"Colline, Foreste",Umanoide
+-,Bestiario 2,1/2,Ondine,Nativo,Qualsiasi,Esterno
+-,Bestiario 2,1/2,Oreade,Nativo,Qualsiasi,Esterno
+Caldi,Bestiario 2,1/2,Pastinaca,Acquatico,Oceani,Animale
+"Freddi, Temperati",Guida alla Magia,1/2,Polpo dagli Anelli Blu,Acquatico,Acquatici,Animale
+Temperati,Bestiario 3,1/2,Procione,,Foreste,Animale
+Qualsiasi,Bestiario 4,1/2,Pulce Gigante,,"Sotterranei, Terreni",Parassita
+"Caldi, Temperati",Bestiario 3,1/2,Ragno Granchio Gigante,,Foreste,Parassita
+Caldi,Bestiario 1,1/2,Rana Velenosa,,"Acquatici, Paludi",Animale
+Qualsiasi,Bestiario 3,1/2,Sagari,,Foreste,Aberrazione
+Qualsiasi,Bestiario 4,1/2,Samsaran,Samsaran,Terreni,Umanoide
+-,Bestiario 1,1/2,Scarabeo Lampo,,Qualsiasi,Parassita
+-,Bestiario 1,1/2,Scarabeo Scavatore,,Qualsiasi,Parassita
+-,Bestiario 1,1/2,Scheletro Bruciante,,Qualsiasi,Non Morto
+-,Bestiario 1,1/2,Scheletro Insanguinato,,Qualsiasi,Non Morto
+Caldi,Bestiario 3,1/2,Scorpione Spettro,,"Deserti, Sotterranei",Parassita
+-,Bestiario 2,1/2,Silfide,Nativo,Qualsiasi,Esterno
+"Caldi, Temperati",Bestiario 1,1/2,Strige,,Paludi,Bestia Magica
+-,Bestiario 3,1/2,Suli,Nativo,Qualsiasi,Esterno
+-,Bestiario 4,1/2,Umano Ectoplasmatico,,Qualsiasi,Non Morto
+Temperati,Bestiario 2,1/2,Tasso,,Foreste,Animale
+Temperati,Bestiario 1,1/2,Tengu,Tengu,"Montagne, Urbani",Umanoide
+-,Bestiario 1,1/2,Tiefling,Nativo,Qualsiasi,Esterno
+Qualsiasi,Bestiario 3,1/2,Vanara,Vanara,Foreste,Umanoide
+Qualsiasi,Bestiario 1,1/2,Vegepigmeo,,Sotterranei,Vegetale
+"Caldi, Temperati",Bestiario 1,1/2,Vipera,,Qualsiasi,Animale
+-,Bestiario 3,1/2,Vishkanya,Vishkanya,Qualsiasi,Umanoide
+Temperati,Bestiario 4,1/2,Vivarano,,Montagne,Drago
+Temperati,Bestiario 4,1/2,Wayang,Wayang,Foreste,Umanoide
+Qualsiasi,Bestiario 4,1/2,Wyrwood,,"Rovine, Sotterranei",Costrutto
+-,Bestiario 2,1/2,Xtabay,,Qualsiasi,Vegetale
+-,Bestiario 1,1/2,Zombi,,Qualsiasi,Non Morto
+-,Bestiario 2,1/2,Zombi del Vuoto,,Qualsiasi,Non Morto
+-,Bestiario 1,1/2,Zombi di Muschio Giallo,,Qualsiasi,Vegetale
+-,Bestiario 1,1/2,Zombi Infetto,,Qualsiasi,Non Morto
+-,Bestiario 1,1/2,Zombi Rapido,,Qualsiasi,Non Morto
+-,Bestiario 2,1,Akata,,Qualsiasi,Aberrazione
+Temperati,Bestiario 4,1,Almiraj,,"Colline, Foreste, Pianure",Bestia Magica
+-,Bestiario 2,1,Ameba Gigante,Acquatico,"Qualsiasi, Sotterranei",Melma
+"Freddi, Temperati",Bestiario 3,1,"Animale da Pascolo, Alce",,Pianure,Animale
+"Caldi, Temperati",Bestiario 3,1,"Animale da Pascolo, Antilope Alcina",,Pianure,Animale
+Temperati,Bestiario 2,1,"Animale da Pascolo, Ariete",,Montagne,Animale
+Caldi,Bestiario 2,1,"Animale da Pascolo, Cammello",,Deserti,Animale
+Qualsiasi,Bestiario 4,1,"Animale da Pascolo, Cervo",,Terreni,Animale
+"Caldi, Temperati",Bestiario 2,1,Ape Gigante,,Pianure,Parassita
+Temperati,Bestiario 3,1,Atomie,,Qualsiasi,Folletto
+Qualsiasi,Bestiario 2,1,Blatta Gigante Sibilante,,Terreni,Parassita
+Temperati,Bestiario 2,1,Brownie,,"Foreste, Pianure",Folletto
+-,Bestiario 4,1,Bubbone Purulento,,Qualsiasi,Melma
+-,Bestiario 4,1,Bubbone Purulento Accecante,,Qualsiasi,Melma
+Qualsiasi,Bestiario 1,1,Calamaro,Acquatico,Oceani,Animale
+-,Bestiario 1,1,Cane da Galoppo,,Qualsiasi,Animale
+Temperati,Bestiario 1,1,Cane Goblin,,"Foreste, Paludi, Sotterranei",Animale
+Qualsiasi,Bestiario 3,1,Carbonchio,,"Foreste, Paludi",Bestia Magica
+Qualsiasi,Bestiario 4,1,Carnimmondo,,Rovine,Aberrazione
+Temperati,Bestiario 1,1,Cavallo,,Pianure,Animale
+Temperati,Bestiario 1,1,"Cavallo, Pony da Guerra",,Pianure,Animale
+Qualsiasi,Bestiario 4,1,Chaneque,Mitico,Foreste,Folletto
+Qualsiasi,Bestiario 3,1,Corvoide Crudele,,Sotterranei,Umanoide Mostruoso
+Temperati,Bestiario 3,1,Diatryma,,Pianure,Animale
+-,Bestiario 1,1,"Diavolo, Lemure","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 4,1,"Dinosauro, Dimorfodonte",,"Foreste, Zone Costiere",Animale
+Qualsiasi,Bestiario 4,1,Donnola Gigante,,Terreni,Animale
+Qualsiasi,Bestiario 4,1,Dossenus,,Sotterranei (Eccetto in Acqua),Aberrazione
+-,Bestiario 2,1,Elementale del Fango Piccolo,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,1,Elementale del Fulmine Piccolo,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,1,Elementale del Fuoco Piccolo,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,1,Elementale del Ghiaccio Piccolo,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,1,Elementale del Magma Piccolo,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,1,Elementale dell'Acqua Piccolo,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,1,Elementale dell'Aria Piccolo,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,1,Elementale della Terra Piccolo,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 4,1,Embrione Sottaceto,,Qualsiasi,Non Morto
+Temperati,Bestiario 3,1,Fauno,,Foreste,Folletto
+Qualsiasi,Bestiario 3,1,Festrog,,Terreni,Non Morto
+Qualsiasi,Bestiario 3,1,Flumph,,"Sotterranei, Terreni",Aberrazione
+-,Bestiario 1,1,Formica Gigante Operaia,,Qualsiasi,Parassita
+Qualsiasi,Bestiario 4,1,Gerride Gigante,,Acque,Parassita
+Qualsiasi,Bestiario 1,1,Ghoul,,Terreni,Non Morto
+Caldi,Bestiario 1,1,Gnoll,Gnoll,"Deserti, Pianure",Umanoide
+Qualsiasi,Bestiario 3,1,"Gremlin, Fuath",Acquatico,Acquatici,Folletto
+Qualsiasi,Bestiario 2,1,"Gremlin, Jinkin",,"Sotterranei, Urbani",Folletto
+Qualsiasi,Bestiario 4,1,"Gremlin, Monaciello",,Urbani,Folletto
+Qualsiasi,Bestiario 2,1,"Gremlin, Vexgit",,"Sotterranei, Urbani",Folletto
+Temperati,Bestiario 2,1,Grifo,,"Foreste, Sotterranei",Bestia Magica
+Temperati,Bestiario 2,1,Grig,,Foreste,Folletto
+-,Bestiario 2,1,Ibridato,,"Rovine, Sotterranei",Umanoide Mostruoso
+Caldi,Bestiario 1,1,Iena,,Pianure,Animale
+Qualsiasi,Bestiario 2,1,Ippocampo,Acquatico,Acquatici,Bestia Magica
+Temperati,Bestiario 4,1,Jack Lanterna,,"Colline, Foreste, Pianure (Campi di Zucche)",Vegetale
+Temperati,Bestiario 2,1,Krenshar,,"Foreste, Pianure",Bestia Magica
+Qualsiasi,Bestiario 1,1,Lacedon,Acquatico,Terreni,Non Morto
+Qualsiasi,Bestiario 2,1,Langusta,Acquatico,Zone Costiere,Aberrazione
+Qualsiasi,Bestiario 3,1,"Leshy, Zucca","Leshy, Mutaforma","Colline, Pianure",Vegetale
+Temperati,Bestiario 2,1,Luccio,Acquatico,Acque Dolci,Animale
+Caldi,Bestiario 3,1,"Lucertola, Geco Gigante",,"Foreste, Montagne",Animale
+Temperati,Bestiario 1,1,Lucertoloide,Rettile,Paludi,Umanoide
+"Freddi, Temperati",Bestiario 1,1,Lupo,,Foreste,Animale
+Caldi,Bestiario 2,1,Manta,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 1,1,Mantoscuro,,Sotterranei,Bestia Magica
+Qualsiasi,Bestiario 3,1,Medusa Testa di Morto,Acquatico,Oceani,Parassita
+"Caldi, Temperati",Bestiario 1,1,Millepiedi Sibilante,,"Foreste, Sotterranei",Parassita
+"Temperati, Tropicali",Bestiario 2,1,Mosca Gigante,,Qualsiasi,Parassita
+Temperati,Bestiario 3,1,Nixie,Acquatico,Acque,Folletto
+Caldi,Bestiario 4,1,Ningyo,Acquatico,Oceani,Umanoide Mostruoso
+-,Bestiario 1,1,Omuncolo,,Qualsiasi,Costrutto
+Temperati,Avventure Mitiche,1,Orco Mitico,Mitico,"Colline, Montagne, Sotterranei",Umanoide
+Caldi,Bestiario 1,1,Orangutan,,Foreste,Animale
+Qualsiasi,Bestiario 4,1,Oscuro Danzatore,Oscuro,Sotterranei,Umanoide
+"Freddi, Temperati",Bestiario 1,1,Piovra,Acquatico,Oceani,Animale
+Temperati,Bestiario 1,1,Pseudodrago,,Foreste,Drago
+-,Bestiario 1,1,Ragno Gigante Cacciatore,,Qualsiasi,Parassita
+-,Bestiario 1,1,Ragno Gigante Tessitore,,Qualsiasi,Parassita
+"Caldi, Temperati",Bestiario 1,1,Rana Gigante,,"Acquatici, Paludi",Animale
+"Caldi, Temperati",Bestiario 4,1,Razza Foglia in Autunno,,Foreste,Vegetale
+"Caldi, Temperati",Bestiario 4,1,Razza Foglia in Estate e Primavera,,Foreste,Vegetale
+"Caldi, Temperati",Bestiario 4,1,Razza Foglia in Inverno,,Foreste,Vegetale
+-,Avventure Mitiche,1,Scheletro Mitico,Mitico,Qualsiasi,Non Morto
+-,Avventure Mitiche,1,Scheletro Bruciante Mitico,Mitico,Qualsiasi,Non Morto
+-,Avventure Mitiche,1,Scheletro Insanguinato Mitico,Mitico,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 2,1,Sciame di Amebe,Sciame,"Sotterranei, Terreni",Melma
+-,Bestiario 1,1,Sciame di Ragni,Sciame,Qualsiasi,Parassita
+Caldi,Bestiario 1,1,Scimpanzé,,Foreste,Animale
+Qualsiasi,Bestiario 2,1,Scorpione di Caverna,,Sotterranei,Parassita
+Qualsiasi,Bestiario 3,1,Serpente Goblin,,"Paludi, Sotterranei",Aberrazione
+"Caldi, Temperati",Bestiario 1,1,Serpente Velenoso,,Qualsiasi,Animale
+Qualsiasi,Bestiario 2,1,Skulk,Skulk,"Sotterranei, Terreni",Umanoide
+Caldi,Bestiario 2,1,Solifugo Gigante,,Deserti,Parassita
+-,Bestiario 2,1,Supplicante,Extraplanare,Qualsiasi (Piani Esterni),Esterno
+Qualsiasi,Bestiario 1,1,Svirfneblin,Gnomo,Sotterranei,Umanoide
+Caldi,Bestiario 4,1,Testuggine Gigante,,"Deserti, Isole",Animale
+Qualsiasi,Bestiario 1,1,Troglodita,Rettile,Sotterranei,Umanoide
+Temperati,Bestiario 2,1,Zecca Gigante,,Foreste,Parassita
+Qualsiasi,Bestiario 3,1,Zoog,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 1,2,Acaro Pescatore,,Sotterranei,Parassita
+-,Bestiario 2,2,"Agathion, Silvanshee","Agathion, Buono, Extraplanare",Qualsiasi (Nirvana),Esterno
+Qualsiasi,Bestiario 3,2,Anemone di Mare Gigante,Acquatico,"Oceani, Zone Costiere",Parassita
+"Freddi, Temperati",Bestiario 3,2,"Animale da Pascolo, Alce di Fiume",,Pianure,Animale
+Temperati,Bestiario 1,2,"Animale da Pascolo, Uro",,Pianure,Animale
+-,Bestiario 2,2,"Angelo, Cassisian","Angelo, Buono, Extraplanare",Qualsiasi (Piano Allineato al Bene),Esterno
+Caldi,Bestiario 1,2,Anguilla Elettrica,,Acque Dolci,Animale
+-,Bestiario 3,2,"Arconte, Annunciatore","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+-,Bestiario 1,2,"Arconte, Lanterna","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+-,Bestiario 4,2,Armatura Fantasma Guardiano,,Qualsiasi,Non Morto
+-,Bestiario 3,2,"Asura, Tripurasura","Asura, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+-,Bestiario 2,2,"Azata, Lyrakien","Azata, Buono, Caotico, Extraplanare",Qualsiasi (Elysium),Esterno
+-,Bestiario 2,2,Azer,"Extraplanare, Fuoco",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 2,2,Bambola Lega Anima,,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 2,2,Blindheim,,Sotterranei,Bestia Magica
+Temperati,Bestiario 1,2,Boggard,Boggard,Paludi,Umanoide
+"Caldi, Temperati",Bestiario 2,2,Bombo Gigante,,Pianure,Parassita
+-,Bestiario 4,2,Bubbone Purulento Epidemico,,Qualsiasi,Melma
+Temperati,Bestiario 1,2,Bugbear,Goblinoide,Montagne,Umanoide
+Caldi,Bestiario 4,2,Cane della Morte,,Deserti,Bestia Magica
+-,Bestiario 3,2,Cane Foo,"Animale Potenziato, Buono, Extraplanare",Qualsiasi (Nirvana),Esterno
+Temperati,Bestiario 2,2,Cane Intermittente,,"Foreste, Pianure",Bestia Magica
+Temperati,Bestiario 2,2,Cane Intermittente Saggio,,"Foreste, Pianure",Bestia Magica
+Temperati,Bestiario 1,2,Cavallo Pesante,,Pianure,Animale
+"Temperati, Tropicali",Bestiario 1,2,Cinghiale,,Foreste,Animale
+-,Bestiario 1,2,Cobra di Ferro,,Qualsiasi,Costrutto
+-,Bestiario 1,2,Cobra di Ferro Freddo,,Qualsiasi,Costrutto
+-,Bestiario 1,2,Cobra di Legnoscuro,,Qualsiasi,Costrutto
+Caldi,Bestiario 1,2,Coccodrillo,,"Fiumi, Paludi",Animale
+Qualsiasi,Bestiario 4,2,Contemplativo,,Urbani,Umanoide Mostruoso
+Qualsiasi,Bestiario 3,2,Corvoide del Terrore,,Sotterranei,Umanoide Mostruoso
+-,Bestiario 2,2,"Daemon, Cacodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,2,"Demone, Dretch","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,2,"Demone, Quasit","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,2,"Diavolo, Imp","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 4,2,"Dinosauro, Velociraptor",,"Foreste, Pianure",Animale
+-,Bestiario 3,2,"Div, Doru","Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 4,2,Draco di Ombra,Freddo,Qualsiasi,Drago
+Freddi,Bestiario 1,2,"Drago Cromatico, Bianco Cucciolo",Freddo,Montagne,Drago
+"Caldi, Temperati",Bestiario 3,2,Drago Fatato,,Foreste,Drago
+Qualsiasi,Bestiario 2,2,"Drago Primevo, Cristallo Cucciolo","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,2,Draugr,,Zone Costiere,Non Morto
+-,Bestiario 2,2,"Eone, Paracleto","Eone, Extraplanare",Qualsiasi (Piani Esterni),Esterno
+"Caldi, Temperati",Bestiario 4,2,Erbafrusta,,Foreste,Vegetale
+Caldi,Bestiario 1,2,"Felino, Ghepardo",,Pianure,Animale
+Qualsiasi,Bestiario 1,2,"Felino, Leopardo",,Foreste,Animale
+Temperati,Bestiario 2,2,Forlarren,,"Foreste, Pianure",Folletto
+-,Bestiario 1,2,Formica Gigante Soldato,,Qualsiasi,Parassita
+Temperati,Bestiario 2,2,Fungo Melma,,Foreste,Melma
+Freddi,Bestiario 1,2,Ghiottone,,Foreste,Animale
+Caldi,Bestiario 1,2,Gorilla,,Foreste,Animale
+Qualsiasi,Bestiario 1,2,Granchio Gigante,Acquatico,Acquatici,Parassita
+Qualsiasi,Bestiario 2,2,"Gremlin, Nuglub",,"Sotterranei, Urbani",Folletto
+-,Bestiario 3,2,Huecuva,,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 4,2,Incutilis,Acquatico,Oceani,Aberrazione
+-,Bestiario 2,2,"Inevitabile, Arbitro","Extraplanare, Inevitabile, Legale",Qualsiasi,Esterno
+Qualsiasi,Bestiario 2,2,Ippocampo Polare,Acquatico,Acquatici,Bestia Magica
+Temperati,Bestiario 2,2,Ippogrifo,,"Colline, Pianure",Bestia Magica
+-,Bestiario 3,2,"Kami, Shikigami","Kami, Nativo",Qualsiasi,Esterno
+-,Bestiario 4,2,Kanko,,Qualsiasi,Bestia Magica
+Qualsiasi,Bestiario 3,2,Kappa,Acquatico,"Fiumi, Laghi",Umanoide Mostruoso
+-,Bestiario 3,2,"Kyton, Augure","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+Temperati,Bestiario 2,2,Leprecauno,,Foreste,Folletto
+Qualsiasi,Bestiario 3,2,"Leshy, Fungo","Leshy, Mutaforma","Paludi, Sotterranei",Vegetale
+Qualsiasi,Bestiario 2,2,"Licantropo, Cinghiale Mannaro","Mutaforma, Umano","Foreste, Pianure",Umanoide
+Qualsiasi,Bestiario 1,2,"Licantropo, Lupo Mannaro","Mutaforma, Umano",Terreni,Umanoide
+Qualsiasi,Bestiario 1,2,"Licantropo, Ratto Mannaro","Mutaforma, Umano",Urbani,Umanoide
+Temperati,Bestiario 2,2,Luccio Alligatore,Acquatico,Acque Dolci,Animale
+Caldi,Bestiario 1,2,Lucertola Folgorante,,Paludi,Bestia Magica
+Caldi,Bestiario 1,2,"Lucertola, Varano",,"Foreste, Pianure",Animale
+Freddi,Bestiario 4,2,Nycar,Acquatico,Paludi,Drago
+-,Bestiario 3,2,"Meccanico, Servitore",Meccanico,Qualsiasi,Costrutto
+Temperati,Bestiario 3,2,Melma dei Giardini,,"Foreste, Paludi, Urbani",Melma
+Qualsiasi,Bestiario 1,2,Morlock,,Sotterranei,Umanoide Mostruoso
+"Caldi, Temperati",Bestiario 1,2,Muschio Giallo Rampicante,,"Foreste, Sotterranei",Vegetale
+-,Bestiario 2,2,Ogremanno,Gigante,Qualsiasi,Umanoide
+-,Bestiario 3,2,"Oni, Spirito","Nativo, Oni",Qualsiasi,Esterno
+Qualsiasi,Bestiario 1,2,Oscuro Strisciante,Oscuro,Sotterranei,Umanoide
+"Temperati, Tropicali",Bestiario 1,2,Pipistrello Crudele,,Qualsiasi,Animale
+-,Bestiario 2,2,Poltergeist,Incorporeo,Qualsiasi,Non Morto
+Temperati,Bestiario 3,2,Porcospino Gigante,,"Foreste, Pianure",Animale
+Qualsiasi,Bestiario 2,2,Progenie dell'Avidità,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie della Gola,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie dell’Invidia,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie dell'Ira,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie della Lussuria,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie dell'Orgoglio,,Rovine,Aberrazione
+Qualsiasi,Bestiario 2,2,Progenie dell'Ozio,,Rovine,Aberrazione
+-,Bestiario 2,2,"Protean, Vermevuoto","Caotico, Extraplanare, Mutaforma, Protean",Qualsiasi (Limbo),Esterno
+-,Bestiario 4,2,"Psicopompo, Nosoi","Extraplanare, Psicopompo",Qualsiasi (Purgatorio),Esterno
+-,Bestiario 4,2,Púca,,Qualsiasi,Folletto
+Temperati,Bestiario 4,2,Pulce Mammut,,"Colline, Foreste, Montagne, Pianure",Parassita
+-,Bestiario 2,2,"Qlippoth, Cythnigot","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+-,Bestiario 3,2,"Rakshasa, Raktavarna","Mutaforma, Nativo, Rakshasa",Qualsiasi,Esterno
+Qualsiasi,Bestiario 4,2,Ratling,,Urbani,Bestia Magica
+Qualsiasi,Bestiario 4,2,"Razza Predatrice, Cappuccio del Boia",,Sotterranei,Aberrazione
+Temperati,Bestiario 3,2,Roncaccia,,Pianure,Animale
+Temperati,Bestiario 2,2,Rospo Gigante,,"Foreste, Pianure, Paludi",Animale
+"Caldi, Temperati",Bestiario 1,2,Sahuagin,Acquatico,Oceani,Umanoide Mostruoso
+"Caldi, Temperati",Bestiario 1,2,Sahuagin Malenti,Acquatico,Oceani,Umanoide Mostruoso
+"Caldi, Temperati",Bestiario 1,2,Sanguisuga Gigante,Acquatico,Paludi,Parassita
+"Freddi, Temperati",Bestiario 3,2,Sasquatch,Sasquatch,Foreste,Umanoide
+Temperati,Bestiario 1,2,Scarabeo Bombardiere,,Foreste,Parassita
+Qualsiasi,Bestiario 4,2,Scheggia dell'Anima,"Extraplanare, Mutaforma",Terreni (Extraplanare),Esterno
+-,Bestiario 1,2,Scheletro Campione,,Qualsiasi,Non Morto
+Caldi,Bestiario 3,2,Sciacalloide,Mutaforma,Deserti,Bestia Magica
+"Caldi, Temperati",Bestiario 2,2,Sciame di Blatte,Sciame,"Qualsiasi, Urbani",Parassita
+"Caldi, Temperati",Bestiario 4,2,Sciame di Locuste,Sciame,"Deserti, Pianure",Parassita
+"Temperati, Tropicali",Bestiario 1,2,Sciame di Pipistrelli,Sciame,Qualsiasi,Animale
+-,Bestiario 1,2,Sciame di Ratti,Sciame,Qualsiasi,Animale
+Caldi,Bestiario 2,2,Sciame di Scimmie,Sciame,Foreste,Animale
+-,Bestiario 3,2,Sciame di Serpenti,Sciame,Qualsiasi,Animale
+Qualsiasi,Bestiario 4,2,Scuoiato,,Terreni,Non Morto
+"Caldi, Temperati",Bestiario 4,2,Seps Adolescente,,Deserti Foreste,Bestia Magica
+Qualsiasi,Bestiario 3,2,Serpentana,,Foreste,Drago
+Caldi,Bestiario 1,2,Serpente Strangolatore,,"Acque Dolci, Foreste, Paludi",Animale
+"Freddi, Temperati",Bestiario 1,2,Skum,Acquatico,"Acquatici, Sotterranei",Umanoide Mostruoso
+Temperati,Bestiario 2,2,Slurk,,"Paludi, Sotterranei",Bestia Magica
+Qualsiasi,Bestiario 1,2,Squalo,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 4,2,Squalo Leuca,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 1,2,Strangolatore,,Sotterranei,Aberrazione
+Temperati,Bestiario 2,2,Tasso Crudele,,Foreste,Animale
+-,Bestiario 2,2,Thoqqua,"Elementale, Extraplanare, Fuoco, Terra",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,2,Tritone,"Acqua, Nativo",Oceani,Esterno
+Tropicali,Bestiario 4,2,Trox,,Deserti,Umanoide Mostruoso
+-,Bestiario 1,2,Vargouille,"Extraplanare, Malvagio",Qualsiasi,Esterno
+Temperati,Bestiario 1,2,Worg,,"Foreste, Pianure",Bestia Magica
+Qualsiasi,Bestiario 2,2,Zombi Juju,Umanoide Potenziato,Terreni,Non Morto
+Caldi,Bestiario 3,3,Adaro,Acquatico,Oceani,Umanoide Mostruoso
+Temperati,Bestiario 3,3,Aderitore,,"Qualsiasi, Sotterranei",Umanoide Mostruoso
+-,Bestiario 3,3,Allip,Incorporeo,Qualsiasi,Non Morto
+"Freddi, Temperati",Bestiario 3,3,"Animale da Pascolo, Alce Gigante",,Pianure,Animale
+Caldi,Bestiario 4,3,"Animale da Pascolo, Giraffa",,Pianure,Animale
+"Caldi, Temperati",Bestiario 1,3,Ankheg,,Pianure,Bestia Magica
+Temperati,Bestiario 1,3,Aquila Gigante,,Montagne,Bestia Magica
+Qualsiasi,Bestiario 2,3,Blatta Venefica,,Terreni,Parassita
+-,Bestiario 4,3,Bubbone Purulento Abissale,,Qualsiasi,Melma
+-,Bestiario 4,3,Bubbone Purulento Infernale,,Qualsiasi,Melma
+Qualsiasi,Bestiario 2,3,Bunyip,Acquatico,Acquatici,Bestia Magica
+-,Bestiario 3,3,Cariatide,,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 4,3,Carne Famelica,,"Sotterranei, Terreni",Melma
+Qualsiasi,Bestiario 4,3,"Carnideforme, Grothlut",,Sotterranei,Aberrazione
+Qualsiasi,Bestiario 4,3,Cavalluccio Marino Gigante,Acquatico,Oceani,Animale
+Temperati,Bestiario 1,3,Centauro,,"Foreste, Pianure",Umanoide Mostruoso
+Qualsiasi,Bestiario 3,3,Ceratioide,Acquatico,Acque Salate,Umanoide Mostruoso
+Caldi,Bestiario 2,3,Chupacabra,,"Colline, Pianure",Bestia Magica
+Caldi,Bestiario 2,3,Chupacabra Volante,,"Colline, Pianure",Bestia Magica
+-,Bestiario 1,3,Cobra Adamantino,,Qualsiasi,Costrutto
+-,Bestiario 1,3,Cobra di Mithral,,Qualsiasi,Costrutto
+"Caldi, Temperati",Bestiario 1,3,Cobra Reale,,Qualsiasi,Animale
+Temperati,Bestiario 1,3,Cockatrice,,Pianure,Bestia Magica
+Qualsiasi,Bestiario 2,3,Crysmal,"Elementale, Terra",Sotterranei (Piano della Terra),Esterno
+Qualsiasi,Bestiario 1,3,Cubo Gelatinoso,,Sotterranei,Melma
+Qualsiasi,Bestiario 1,3,Derro,,Sotterranei,Umanoide
+-,Bestiario 2,3,"Diavolo, Accusatore","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 1,3,"Dinosauro, Deinonico",,Foreste,Animale
+Caldi,Bestiario 3,3,"Dinosauro, Dimetrodonte",,Foreste,Animale
+Caldi,Bestiario 1,3,"Dinosauro, Pteranodonte",,Zone Costiere,Animale
+Caldi,Bestiario 3,3,Disincantatore,,Terreni,Bestia Magica
+-,Bestiario 2,3,Diziriak,Extraplanare,Qualsiasi (Piano delle Ombre),Esterno
+Qualsiasi,Bestiario 4,3,Donnola Crudele,,Terreni,Animale
+-,Bestiario 1,3,Doppelganger,Mutaforma,Qualsiasi,Umanoide Mostruoso
+Temperati,Bestiario 3,3,Draco di Fiume,"Acqua, Acquatico","Fiumi, Laghi",Drago
+Caldi,Bestiario 1,3,"Drago Cromatico, Nero Cucciolo",Acqua,Paludi,Drago
+Qualsiasi,Bestiario 3,3,"Drago Imperiale, Sottosuolo Cucciolo",Fuoco,Sotterranei,Drago
+Caldi,Bestiario 1,3,"Drago Metallico, Ottone Cucciolo",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,3,"Drago Primevo, Salsedine Cucciolo","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Qualsiasi,Bestiario 2,3,Draugr Capitano,Acqua,Zone Costiere,Non Morto
+Temperati,Bestiario 1,3,Driade,,Foreste,Folletto
+Qualsiasi,Bestiario 1,3,Drow Nobile,Elfo,Sotterranei,Umanoide
+-,Bestiario 2,3,Elementale del Fango Medio,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,3,Elementale del Fulmine Medio,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,3,Elementale del Fuoco Medio,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,3,Elementale del Ghiaccio Medio,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,3,Elementale del Magma Medio,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,3,Elementale dell'Acqua Medio,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,3,Elementale dell'Aria Medio,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,3,Elementale della Terra Medio,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Temperati,Bestiario 1,3,Ettercap,,Foreste,Aberrazione
+"Caldi, Temperati",Bestiario 4,3,"Formian, Combattente",,"Sotterranei, Terreni",Umanoide Mostruoso
+-,Bestiario 1,3,Formica Gigante Maschio,,Qualsiasi,Parassita
+-,Bestiario 3,3,Fungo Cerebrale,,Qualsiasi,Vegetale
+Qualsiasi,Bestiario 3,3,Fungo Fantasma,,Sotterranei,Vegetale
+Qualsiasi,Bestiario 1,3,Fungo Viola,,Sotterranei,Vegetale
+Qualsiasi,Bestiario 1,3,Ghast,,Terreni,Non Morto
+-,Bestiario 4,3,"Golem, Cera",,Qualsiasi,Costrutto
+Caldi,Bestiario 1,3,Gorilla Crudele,,Foreste,Animale
+Qualsiasi,Bestiario 2,3,Grick,,Sotterranei,Aberrazione
+Caldi,Bestiario 1,3,Iena Crudele,,Pianure,Animale
+Temperati,Avventure Mitiche,3,Ippogrifo Mitico,Mitico,"Colline, Pianure",Bestia Magica
+Qualsiasi,Bestiario 4,3,Jack il Saltatore,,Terreni,Folletto
+Temperati,Bestiario 2,3,Jackrametto,,Foreste,Folletto
+Caldi,Bestiario 3,3,Kech,,Foreste,Umanoide Mostruoso
+-,Bestiario 3,3,Larva Necrofaga Gigante,,Qualsiasi,Parassita
+Caldi,Bestiario 1,3,Leone,,Pianure,Animale
+Qualsiasi,Bestiario 3,3,"Leshy, Alga","Acquatico, Leshy, Mutaforma","Oceani, Zone Costiere",Vegetale
+Temperati,Bestiario 1,3,Liana Assassina,,Foreste,Vegetale
+Caldi,Bestiario 4,3,"Licantropo, Coccodrillo Mannaro","Mutaforma, Umano","Fiumi, Paludi",Umanoide
+Temperati,Bestiario 4,3,"Licantropo, Pipistrello Mannaro","Mutaforma, Umano","Colline, Foreste",Umanoide
+Qualsiasi,Bestiario 4,3,"Licantropo, Squalo Mannaro","Mutaforma, Umano","Oceani, Zone Costiere",Umanoide
+"Caldi, Temperati",Bestiario 4,3,Locusta Gigante,,"Deserti, Pianure",Parassita
+Caldi,Bestiario 3,3,"Lucertola, Camaleonte Gigante",,"Foreste, Montagne",Animale
+"Freddi, Temperati",Bestiario 1,3,Lupo Crudele,,Foreste,Animale
+Qualsiasi,Bestiario 3,3,Magmin,"Elementale, Extraplanare, Fuoco",Terreni (Piano del Fuoco),Esterno
+Temperati,Bestiario 1,3,Mantide Gigante,,Foreste,Parassita
+-,Bestiario 1,3,Mephit del Fuoco,Fuoco,Qualsiasi (Piano Elementale del Fuoco),Esterno
+-,Bestiario 1,3,Mephit del Ghiaccio,Freddo,Qualsiasi (Piano Elementale dell'Aria),Esterno
+-,Bestiario 1,3,Mephit del Magma,Fuoco,Qualsiasi (Piano Elementale del Fuoco),Esterno
+-,Bestiario 1,3,Mephit del Sale,Terra,Qualsiasi (Piano Elementale della Terra),Esterno
+-,Bestiario 1,3,Mephit del Vapore,Fuoco,Qualsiasi (Piano Elementale del Fuoco),Esterno
+-,Bestiario 1,3,Mephit dell'Acqua,Freddo,Qualsiasi (Piano Elementale dell'Acqua),Esterno
+-,Bestiario 1,3,Mephit dell'Aria,Aria,Qualsiasi (Piano Elementale dell'Aria),Esterno
+-,Bestiario 1,3,Mephit della Melma,Acqua,Qualsiasi (Piano Elementale dell'Acqua),Esterno
+-,Bestiario 1,3,Mephit della Polvere,Aria,Qualsiasi (Piano Elementale dell'Aria),Esterno
+-,Bestiario 1,3,Mephit della Terra,Terra,Qualsiasi (Piano Elementale della Terra),Esterno
+Temperati,Bestiario 2,3,Merrow d'Acqua Dolce,"Acquatico, Gigante","Fiumi, Laghi",Umanoide
+Qualsiasi,Bestiario 2,3,Micogrillo,,Sotterranei,Aberrazione
+"Caldi, Temperati",Bestiario 2,3,Millepiedi Gigante Sferzante,,"Foreste, Sotterranei",Parassita
+"Caldi, Temperati",Bestiario 2,3,Mobat,,"Colline, Foreste, Sotterranei",Bestia Magica
+-,Bestiario 4,3,Muffa della Schiavitù Mentale,,Qualsiasi,Melma
+"Caldi, Temperati",Bestiario 2,3,Nebbia Vampirica,"Acqua, Aria","Paludi, Sotterranei",Aberrazione
+-,Bestiario 2,3,Necrofidio,,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 4,3,Necroibrido,,"Sotterranei, Terreni",Non Morto
+"Caldi, Temperati",Bestiario 2,3,Ninfa di Libellula Gigante,Acquatico,Acque,Parassita
+Temperati,Bestiario 3,3,Nixie di Palude,Acquatico,Acque,Folletto
+-,Bestiario 1,3,Oggetto Animato,,Qualsiasi,Costrutto
+"Freddi, Temperati",Bestiario 1,3,Ogre,Gigante,Colline,Umanoide
+-,Bestiario 1,3,Ombra,Incorporeo,Qualsiasi,Non Morto
+Freddi,Bestiario 1,3,Orso Nero,,Foreste,Animale
+Qualsiasi,Bestiario 2,3,Oscuro Uccisore,Oscuro,Sotterranei,Umanoide
+"Caldi, Temperati",Bestiario 4,3,Pard,,"Foreste, Pianure",Bestia Magica
+Qualsiasi,Bestiario 2,3,Pech,Terra,Sotterranei (Piano della Terra),Folletto
+"Caldi, Temperati",Bestiario 1,3,Pegaso,,Pianure,Bestia Magica
+Temperati,Bestiario 2,3,Pièveloce,,Foreste,Folletto
+Temperati,Bestiario 3,3,Puzzola Gigante,,Foreste,Animale
+Temperati,Bestiario 3,3,Rospo Gigante Fatato,,"Foreste, Paludi, Pianure",Folletto
+Qualsiasi,Bestiario 1,3,Rugginofago,,Sotterranei,Aberrazione
+Caldi,Bestiario 4,3,Rukh Adolescente,,"Deserti, Montagne",Bestia Magica
+"Caldi, Temperati",Bestiario 1,3,Sahuagin Mutante con Quattro Braccia,Acquatico,Oceani,Umanoide Mostruoso
+Temperati,Bestiario 1,3,Sciame di Vespe,Sciame,Foreste,Parassita
+Tropicali,Bestiario 2,3,Sciame di Zanzare,Sciame,Paludi,Parassita
+-,Avventure Mitiche,3,Scheletro Campione Mitico,Mitico,Qualsiasi,Non Morto
+"Caldi, Temperati",Bestiario 1,3,Scorpione Gigante,,"Deserti, Foreste, Pianure, Sotterranei",Parassita
+-,Bestiario 1,3,Segugio Infernale,"Extraplanare, Fuoco, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Freddi,Bestiario 3,3,Segugio Troll,,Montagne,Bestia Magica
+-,Bestiario 1,3,Segugio Urlatore,"Extraplanare, Malvagio",Qualsiasi,Esterno
+-,Bestiario 4,3,Signore degli Zombi,,Qualsiasi,Non Morto
+-,Bestiario 4,3,Shulsaga,Extraplanare,Qualsiasi (Piano Astrale),Esterno
+Temperati,Bestiario 4,3,Snallygaster,,"Foreste, Montagne",Aberrazione
+Qualsiasi,Bestiario 2,3,Spriggan,Gnomo,"Colline, Foreste",Umanoide
+Qualsiasi,Bestiario 2,3,Spriggan Grande,Gnomo,"Colline, Foreste",Umanoide
+Qualsiasi,Bestiario 1,3,Squalo Martello,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 1,3,Squalo Tigre,Acquatico,Oceani,Animale
+Freddi,Bestiario 4,3,Tricheco,,Oceani,Animale
+"Freddi, Temperati",Bestiario 3,3,Troll del Muschio,"Gigante, Mutaforma",Foreste,Umanoide
+Qualsiasi,Bestiario 2,3,Ululatore,"Caotico, Extraplanare, Malvagio",Terreni (Abisso),Esterno
+Temperati,Bestiario 1,3,Unicorno,,Foreste,Bestia Magica
+-,Bestiario 2,3,Uomo Sabbia,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Qualsiasi,Bestiario 2,3,Urdefhan,Nativo,Terreni,Esterno
+-,Bestiario 2,3,Vedova Nera Gigante,,Qualsiasi,Parassita
+Temperati,Bestiario 1,3,Vespa Gigante,,Foreste,Parassita
+-,Bestiario 1,3,Wight,,Qualsiasi,Non Morto
+Caldi,Bestiario 4,3,Worg della Morte,,Deserti,Bestia Magica
+Temperati,Avventure Mitiche,3,Worg Mitico,Mitico,"Foreste, Pianure",Bestia Magica
+-,Bestiario 2,4,Alaoscura,Extraplanare,Qualsiasi (Piano delle Ombre),Esterno
+Temperati,Bestiario 2,4,Anfisbena,,"Colline, Sotterranei",Bestia Magica
+"Freddi, Temperati",Bestiario 1,4,"Animale da Pascolo, Bisonte",,Pianure,Animale
+Tropicali,Bestiario 2,4,Aranea,,Foreste,Bestia Magica
+-,Bestiario 1,4,"Arconte, Segugio","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+-,Bestiario 4,4,Armatura Fantasma Gigante,,Qualsiasi,Non Morto
+Temperati,Bestiario 1,4,Arpia,,Paludi,Umanoide Mostruoso
+Caldi,Bestiario 3,4,Avvoltoio Gigante,,"Colline, Pianure",Animale
+-,Bestiario 1,4,Barghest,"Extraplanare, Legale, Malvagio, Mutaforma",Qualsiasi,Esterno
+Caldi,Bestiario 2,4,Chupacabra Grande,,"Colline, Pianure",Bestia Magica
+"Temperati, Tropicali",Bestiario 1,4,Cinghiale Crudele,,Foreste,Animale
+Temperati,Avventure Mitiche,4,Cockatrice Mitica,Mitico,Pianure,Bestia Magica
+Qualsiasi,Bestiario 4,4,Comozant Wyrd,"Aria, Elementale, Extraplanare, Incorporeo",Oceani (Durante le Tempeste),Esterno
+Temperati,Bestiario 2,4,Crocotta,,Pianure,Animale
+-,Bestiario 3,4,"Daemon, Vulnudaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Temperati,Bestiario 2,4,Decapode,,"Foreste, Sotterranei",Aberrazione
+-,Bestiario 3,4,"Demone, Schir","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+"Caldi, Temperati",Bestiario 3,4,"Dinosauro, Pachicefalosauro",,Pianure,Animale
+Temperati,Bestiario 2,4,"Dinosauro, Parasaurolofo",,"Foreste, Pianure",Animale
+-,Bestiario 3,4,"Div, Aghash","Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Qualsiasi,Bestiario 2,4,Draco di Foresta,Terra,Foreste,Drago
+Freddi,Bestiario 1,4,"Drago Cromatico, Bianco Molto Giovane",Freddo,Montagne,Drago
+Temperati,Bestiario 1,4,"Drago Cromatico, Verde Cucciolo",Aria,Foreste,Drago
+Qualsiasi,Bestiario 3,4,"Drago Imperiale, Mare Cucciolo",Acqua,Acquatici,Drago
+Caldi,Bestiario 1,4,"Drago Metallico, Rame Cucciolo",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,4,"Drago Primevo, Cristallo Molto Giovane","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,4,"Drago Primevo, Magma Cucciolo","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Temperati,Bestiario 4,4,Ettercap d'Incubo,,Foreste,Aberrazione
+Caldi,Bestiario 4,4,Felino Marino,,Zone Costiere,Bestia Magica
+Qualsiasi,Bestiario 2,4,Ficomide,,Sotterranei,Vegetale
+Freddi,Bestiario 4,4,Flusso Congelante,"Acqua, Freddo",Qualsiasi,Melma
+-,Bestiario 1,4,Formica Gigante Regina,,Qualsiasi,Parassita
+"Freddi, Temperati",Bestiario 4,4,Fossegrim,Acquatico,Acquatici (Cascate),Folletto
+-,Bestiario 1,4,Gargoyle,Terra,Qualsiasi,Umanoide Mostruoso
+Caldi,Bestiario 1,4,"Genio, Janni",Nativo,Deserti,Esterno
+Freddi,Bestiario 1,4,Ghiottone Crudele,,Foreste,Animale
+-,Bestiario 2,4,"Golem, Cadaveri",,Qualsiasi,Costrutto
+-,Bestiario 4,4,"Golem, Rifiuti",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 1,4,Granchio delle Rocce,Acquatico,Acquatici,Parassita
+Qualsiasi,Bestiario 4,4,Grande Squalo Bianco,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 2,4,Grick della Giungla,,Foreste,Aberrazione
+Temperati,Bestiario 1,4,Grifone,,Colline,Bestia Magica
+Qualsiasi,Bestiario 2,4,Grindylow Gigante,Acquatico,Acquatici,Aberrazione
+Freddi,Bestiario 4,4,Huldra,,"Foreste, Montagne",Folletto
+Temperati,Bestiario 1,4,Idra a 5 Teste,,Paludi,Bestia Magica
+"Caldi, Temperati",Bestiario 3,4,Kamadan,,Paludi,Bestia Magica
+Qualsiasi,Bestiario 1,4,Kapoacinth,"Terra, Acquatico","Acquatici, Mari, Oceani, Zone Costiere",Umanoide Mostruoso
+Qualsiasi,Bestiario 2,4,Kelpie,"Acquatico, Mutaforma",Acquatici,Folletto
+Temperati,Bestiario 2,4,Korred,,Foreste,Folletto
+-,Bestiario 3,4,Leone Foo,"Animale Potenziato, Buono, Extraplanare",Qualsiasi (Nirvana),Esterno
+"Caldi, Temperati",Bestiario 2,4,Libellula Gigante,,Terreni,Parassita
+Qualsiasi,Bestiario 2,4,"Licantropo, Orso Mannaro","Mutaforma, Umano",Foreste,Umanoide
+Qualsiasi,Bestiario 2,4,"Licantropo, Tigre Mannara","Mutaforma, Umano","Paludi, Pianure",Umanoide
+Qualsiasi,Bestiario 3,4,Lumafrusto,,Sotterranei,Bestia Magica
+Qualsiasi,Bestiario 4,4,Magro Notturno,,Montagne (Dimensione del Sogno),Umanoide Mostruoso
+"Freddi, Temperati",Bestiario 2,4,Mandragora,,Foreste,Vegetale
+"Freddi, Temperati",Bestiario 2,4,"Megafauna, Megalocero",,Pianure,Animale
+Temperati,Bestiario 1,4,Megera Marina,Acquatico,Acquatici,Umanoide Mostruoso
+Qualsiasi,Bestiario 1,4,Melma Cristallina,Acquatico,Acque Profonde,Melma
+Freddi,Bestiario 1,4,Melma Grigia,,"Paludi, Sotterranei",Melma
+Qualsiasi,Bestiario 3,4,Miceloide,,Sotterranei,Vegetale
+-,Bestiario 1,4,Mimic,Mutaforma,Qualsiasi,Aberrazione
+Temperati,Bestiario 1,4,Minotauro,,"Rovine, Sotterranei",Umanoide Mostruoso
+Qualsiasi,Bestiario 4,4,Muro Vivente,,"Rovine, Sotterranei",Costrutto
+"Freddi, Temperati",Avventure Mitiche,4,Ogre Mitico,"Gigante, Mitico",Colline,Umanoide
+-,Bestiario 3,4,"Oni, Kuwa","Mutaforma, Nativo, Oni, Umano",Qualsiasi,Esterno
+Freddi,Bestiario 1,4,Orso Grigio,,Foreste,Animale
+Temperati,Bestiario 1,4,Orsogufo,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 1,4,Oscuro Predatore,Oscuro,Sotterranei,Umanoide
+Qualsiasi,Bestiario 1,4,Otyugh,,Sotterranei,Aberrazione
+-,Bestiario 2,4,Peryton,,Qualsiasi,Bestia Magica
+Qualsiasi,Bestiario 2,4,Pesce Diavolo,Acquatico,Acquatici,Bestia Magica
+Temperati,Bestiario 1,4,Pixie,,Foreste,Folletto
+-,Bestiario 1,4,Progenie Vampirica,,Qualsiasi,Non Morto
+Caldi,Bestiario 1,4,Rinoceronte,,Pianure,Animale
+Temperati,Bestiario 1,4,Satiro,,Foreste,Folletto
+Temperati,Bestiario 2,4,Scarabeo Mietitore,,Foreste,Parassita
+Temperati,Bestiario 1,4,"Scarabeo, Cervo Volante Gigante",,Foreste,Parassita
+Caldi,Bestiario 2,4,Scavapolvere,,Deserti,Aberrazione
+"Caldi, Temperati",Bestiario 1,4,Sciame di Millepiedi,Sciame,"Foreste, Sotterranei",Parassita
+"Caldi, Temperati",Bestiario 1,4,Sciame di Sanguisughe,"Acquatico, Sciame",Paludi,Parassita
+-,Bestiario 3,4,Sciame di Serpenti Velenosi,Sciame,Qualsiasi,Animale
+-,Avventure Mitiche,4,Segugio Infernale Mitico,"Extraplanare, Fuoco, Legale, Malvagio, Mitico",Qualsiasi (Inferno),Esterno
+Qualsiasi,Bestiario 2,4,Senzafaccia,Mutaforma,"Paludi, Sotterranei",Aberrazione
+-,Bestiario 3,4,Shae,Extraplanare,Qualsiasi (Piano delle Ombre),Esterno
+Freddi,Bestiario 4,4,Shobhad,,"Deserti, Montagne",Umanoide Mostruoso
+-,Bestiario 4,4,Shriezyx,,Qualsiasi,Aberrazione
+Qualsiasi,Bestiario 2,4,"Solifugo, Albino di Caverna",,Sotterranei,Parassita
+Qualsiasi,Bestiario 2,4,Spaventapasseri,,Terreni,Costrutto
+Qualsiasi,Bestiario 2,4,Sussurrante,,"Rovine, Urbani",Non Morto
+Temperati,Bestiario 3,4,Tanuki,Mutaforma,"Foreste, Urbani",Umanoide Mostruoso
+Qualsiasi,Bestiario 2,4,Tentamort,,"Paludi, Sotterranei",Aberrazione
+-,Bestiario 3,4,"Thriae, Soldato",,Qualsiasi,Umanoide Mostruoso
+Qualsiasi,Bestiario 1,4,Tigre,,Foreste,Animale
+Qualsiasi,Bestiario 4,4,Topiario Vivente,,Terreni,Vegetale
+Freddi,Bestiario 2,4,Troll dei Ghiacci,"Freddo, Gigante","Montagne, Sotterranei",Umanoide
+"Freddi, Temperati",Avventure Mitiche,4,Troll del Muschio Mitico,"Freddo, Gigante, Mitico",Foreste,Umanoide
+Temperati,Bestiario 3,4,Uccello del Terrore,,Pianure,Animale
+Qualsiasi,Bestiario 4,4,Udeo,"Mitico, Udeo","Terreni, Urbani",Umanoide
+Temperati,Bestiario 1,4,Unicorno Mezzo-Celestiale,Nativo,Foreste,Esterno
+Qualsiasi,Bestiario 2,4,Uomo Serpente,,Terreni (generalmente Giungle o Sotterranei),Umanoide Mostruoso
+Qualsiasi,Bestiario 2,4,Uomo Serpente Degenerato,,Terreni (generalmente Giungle o Sotterranei),Umanoide Mostruoso
+Qualsiasi,Bestiario 3,4,Voonith,Acquatico,"Fiumi, Paludi",Bestia Magica
+-,Bestiario 1,4,Wight dei Tumuli,,Qualsiasi,Non Morto
+-,Bestiario 1,4,Wight del Gelo,,Qualsiasi,Non Morto
+Freddi,Bestiario 4,4,Wikkawak,Goblinoide,Montagne,Umanoide
+Freddi,Bestiario 1,4,Yeti,Freddo,Montagne,Umanoide Mostruoso
+Qualsiasi,Bestiario 3,4,Zuvembie,,Terreni,Non Morto
+Qualsiasi,Bestiario 2,5,Achaierai,"Extraplanare, Legale, Malvagio",Terreni (Inferno),Bestia Magica
+Caldi,Bestiario 1,5,"Anguilla, Murena Gigante",Acquatico,Oceani,Animale
+-,Bestiario 4,5,Antico,Acquatico,Qualsiasi,Aberrazione
+"Caldi, Temperati",Bestiario 2,5,Ape Regina Gigante,,Pianure,Parassita
+Qualsiasi,Bestiario 3,5,Ascomoide,,Sotterranei,Vegetale
+Qualsiasi non Freddi,Bestiario 1,5,Basidirond,,Sotterranei,Vegetale
+-,Bestiario 1,5,Basilisco,,Qualsiasi,Bestia Magica
+Qualsiasi,Bestiario 4,5,Brethedano,Acquatico,Cieli,Aberrazione
+Qualsiasi,Bestiario 4,5,Buggane,,Sotterranei,Umanoide Mostruoso
+Qualsiasi,Bestiario 4,5,Cavalluccio Marino Assassino,Acquatico,Oceani,Animale
+Caldi,Bestiario 3,5,Cecaelia,Acquatico,Acquatici,Umanoide Mostruoso
+"Temperati, Tropicali",Bestiario 1,5,Ciclope,Gigante,Qualsiasi,Umanoide
+"Caldi, Temperati",Bestiario 2,5,Cobra Imperatore,,Paludi,Animale
+Qualsiasi,Bestiario 2,5,Custode delle Cripte,,Sotterranei,Non Morto
+-,Bestiario 2,5,"Daemon, Ceustodaemon Inferiore","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Caldi,Bestiario 3,5,Derhii,,"Foreste, Montagne",Umanoide Mostruoso
+-,Bestiario 1,5,"Diavolo, Barbuto","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Temperati,Bestiario 1,5,"Dinosauro, Megaraptor",,Foreste,Animale
+Caldi,Bestiario 4,5,"Dinosauro, Stiracosauro",,Pianure,Animale
+Temperati,Bestiario 3,5,Divoraragni,,Foreste,Bestia Magica
+"Freddi, Temperati",Bestiario 4,5,Draco di Bruma,Aria,"Colline, Paludi, Zone Costiere",Drago
+Temperati,Bestiario 2,5,Draco di Fiamma,Fuoco,"Colline, Montagne",Drago
+Caldi,Bestiario 1,5,"Drago Cromatico, Blu Cucciolo",Terra,Deserti,Drago
+Caldi,Bestiario 1,5,"Drago Cromatico, Nero Molto Giovane",Acqua,Paludi,Drago
+Qualsiasi,Bestiario 4,5,"Drago Esterno, Lunare Cucciolo",,Vuoto,Drago
+Qualsiasi,Bestiario 4,5,"Drago Esterno, Lunare Cucciolo",,Vuoto,Drago
+Qualsiasi,Bestiario 4,5,"Drago Esterno, Solare Cucciolo",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,5,"Drago Esterno, Vuoto Cucciolo",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,5,"Drago Imperiale, Cielo Cucciolo",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,5,"Drago Imperiale, Sottosuolo Molto Giovane",Fuoco,Sotterranei,Drago
+Temperati,Bestiario 1,5,"Drago Metallico, Bronzo Cucciolo",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,5,"Drago Metallico, Ottone Molto Giovane",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,5,"Drago Primevo, Nuvole Cucciolo","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+Qualsiasi,Bestiario 2,5,"Drago Primevo, Salsedine Molto Giovane","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 2,5,Elementale del Fango Grande,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,5,Elementale del Fulmine Grande,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,5,Elementale del Fuoco Grande,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,5,Elementale del Ghiaccio Grande,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,5,Elementale del Magma Grande,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,5,Elementale dell'Acqua Grande,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,5,Elementale dell'Aria Grande,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,5,Elementale della Terra Grande,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Temperati,Bestiario 4,5,Fachen,,"Colline, Pianure",Aberrazione
+Qualsiasi,Bestiario 4,5,Fantasma dei Congegni,,"Sotterranei, Urbani",Non Morto
+Qualsiasi,Bestiario 1,5,Fauce Gorgogliante,,Sotterranei,Aberrazione
+Caldi,Bestiario 3,5,Formicaleone Gigante,,Deserti,Parassita
+-,Avventure Mitiche,5,Gargoyle Mitico,"Terra, Mitico",Qualsiasi,Umanoide Mostruoso
+Temperati,Bestiario 1,5,Gelatina Ocra,,"Paludi, Sotterranei",Melma
+-,Bestiario 1,5,"Genio, Djinni","Aria, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+Caldi,Bestiario 3,5,Ghul,Mutaforma,Deserti,Non Morto
+Qualsiasi,Bestiario 3,5,Globster,Acquatico,"Oceani, Zone Costiere",Melma
+Freddi,Bestiario 1,5,"Golem, Ghiaccio",Freddo,Qualsiasi,Costrutto
+-,Bestiario 4,5,Graia,"Malvagio, Mitico",Qualsiasi,Umanoide Mostruoso
+Temperati,Avventure Mitiche,5,Grifone Mitico,Mitico,Colline,Bestia Magica
+Qualsiasi,Bestiario 3,5,Grodair,"Acquatico, Extraplanare","Acquatici, Zone Costiere",Bestia Magica
+Qualsiasi,Bestiario 3,5,Guardiano Lapidario,,Terreni,Costrutto
+Temperati,Bestiario 3,5,Gufo Gigante,,Foreste,Bestia Magica
+Temperati,Bestiario 1,5,Idra a 6 Teste,,Paludi,Bestia Magica
+Temperati,Bestiario 4,5,Idra Guardiano Divino,"Aria, Acqua",Rovine,Bestia Magica
+-,Bestiario 1,5,Incubo,"Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Caldi,Bestiario 2,5,Ippopotamo,,Fiumi,Animale
+"Caldi, Temperati",Bestiario 3,5,Kamadan Crepuscolare,,Pianure,Bestia Magica
+Qualsiasi,Bestiario 3,5,"Kami, Kodama","Kami, Nativo",Foreste,Esterno
+-,Avventure Mitiche,5,Kapoacinth Mitico,"Terra, Acquatico, Mitico",Qualsiasi,Umanoide Mostruoso
+-,Bestiario 4,5,"Kyton, Ostiario","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+Qualsiasi,Bestiario 4,5,Lampade,,Sotterranei,Folletto
+Caldi,Bestiario 1,5,Leone Crudele,,"Colline, Pianure",Animale
+"Temperati, Tropicali",Bestiario 2,5,Leucrotta,,"Colline, Foreste",Bestia Magica
+Caldi,Bestiario 1,5,"Lucertola, Collare",,"Colline, Foreste, Pianure",Animale
+Qualsiasi,Bestiario 2,5,Mano Strisciante Gigante,,"Sotterranei, Terreni",Non Morto
+Caldi,Bestiario 1,5,Manticora,,"Colline, Pianure",Bestia Magica
+Qualsiasi,Bestiario 1,5,Manto Assassino,,Sotterranei,Aberrazione
+-,Bestiario 3,5,Mastino Ombra,"Extraplanare, Malvagio",Qualsiasi,Esterno
+"Caldi, Temperati",Bestiario 3,5,"Megafauna, Archelone",,"Acquatici, Zone Costiere",Animale
+"Caldi, Temperati",Bestiario 2,5,"Megafauna, Megaterio",,Foreste,Animale
+Temperati,Bestiario 1,5,Megera Verde,,Paludi,Umanoide Mostruoso
+Qualsiasi,Bestiario 2,5,Mercano,Extraplanare,"Sotterranei, Terreni",Esterno
+-,Bestiario 1,5,Mummia,,Qualsiasi,Non Morto
+Freddi,Bestiario 1,5,Orca,,Oceani,Animale
+Temperati,Avventure Mitiche,5,Orsogufo Mitico,Mitico,Foreste,Bestia Magica
+Freddi,Bestiario 1,5,Orso Polare,,Pianure,Animale
+Qualsiasi,Bestiario 4,5,Oscuro Richiamatore,Oscuro,Sotterranei,Umanoide
+-,Bestiario 3,5,Penanggalen,Umanoide Potenziato,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 4,5,Pellecucita,,Terreni,Costrutto
+Qualsiasi,Bestiario 2,5,Predatore della Luce,Extraplanare,Terreni (Extraplanare),Folletto
+-,Bestiario 4,5,"Psicopompo, Catrina","Extraplanare, Psicopompo",Qualsiasi (Purgatorio),Esterno
+Caldi,Bestiario 1,5,Ragno Fase,,Colline,Bestia Magica
+"Freddi, Temperati",Bestiario 3,5,Ragno Ogre,,"Colline, Sotterranei",Parassita
+-,Bestiario 3,5,"Rakshasa, Dandasuka","Mutaforma, Nativo, Rakshasa",Qualsiasi,Esterno
+-,Bestiario 2,5,Rast,"Extraplanare, Fuoco",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 4,5,Re dei Ratti,,"Sotterranei, Urbani",Bestia Magica
+Caldi,Bestiario 3,5,Sabosan,,"Foreste, Sotterranei",Umanoide Mostruoso
+Caldi,Bestiario 4,5,Saguaroi,,Deserti,Vegetale
+Tropicali,Bestiario 1,5,Sciame di Formiche Legionarie,Sciame,Qualsiasi,Parassita
+Freddi,Bestiario 1,5,Scrag,"Acquatico, Gigante",Montagne,Umanoide
+Freddi,Bestiario 4,5,Selkie,"Acquatico, Mutaforma",Oceani,Umanoide Mostruoso
+Caldi,Bestiario 1,5,"Serpente, Anaconda",,"Acque Dolci, Foreste, Paludi",Animale
+Caldi,Bestiario 3,5,"Sfinge, Ieracosfinge",,Colline,Bestia Magica
+"Caldi, Temperati",Bestiario 2,5,Sirena,,Colline,Bestia Magica
+Qualsiasi,Bestiario 2,5,Skaveling,,Sotterranei,Non Morto
+Qualsiasi,Bestiario 3,5,Tojanida,"Acqua, Extraplanare",Acquatici (Piano dell'Acqua),Esterno
+Freddi,Bestiario 1,5,Troll,Gigante,Montagne,Umanoide
+Freddi,Avventure Mitiche,5,Troll dei Ghiacci Mitico,"Freddo, Gigante, Mitico","Montagne, Sotterranei",Umanoide
+Qualsiasi,Bestiario 3,5,Vodyanoi,Acquatico,"Fiumi, Paludi",Umanoide Mostruoso
+-,Bestiario 1,5,Wight Brutale,,Qualsiasi,Non Morto
+Freddi,Bestiario 1,5,"Worg, Lupo Invernale",Freddo,"Foreste, Pianure",Bestia Magica
+-,Bestiario 1,5,Wraith,Incorporeo,Qualsiasi,Non Morto
+-,Bestiario 1,5,Xorn Giovane,"Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 4,5,Ypnale,Extraplanare,Qualsiasi (Piano Etereo),Esterno
+"Temperati, Tropicali",Bestiario 2,5,Zanzara Goblin,,Paludi,Parassita
+Qualsiasi,Bestiario 2,6,"Agathion, Vulpinal","Agathion, Buono, Extraplanare",Terreni (Nirvana),Esterno
+Caldi,Bestiario 3,6,Ahuizotl,Acquatico,"Fiumi, Laghi, Paludi",Bestia Magica
+Qualsiasi,Bestiario 2,6,Arcanathos,,Terreni,Umanoide Mostruoso
+-,Bestiario 3,6,Arciere di Terracotta,,Qualsiasi,Costrutto
+-,Bestiario 1,6,"Azata, Bralani","Azata, Buono, Caotico, Extraplanare, Mutaforma",Qualsiasi (Elysium),Esterno
+-,Bestiario 2,6,Belker,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+Qualsiasi,Bestiario 3,6,Berbalang,,Terreni,Non Morto
+Temperati,Bestiario 2,6,Berretto Rosso,,"Foreste, Montagne, Sotterranei",Folletto
+-,Bestiario 3,6,Cerbero,"Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Freddi,Bestiario 1,6,Crioidra a 5 Teste,Freddo,"Paludi, Ghiacciai",Bestia Magica
+Temperati,Bestiario 1,6,Cumulo Strisciante,,"Foreste, Paludi",Vegetale
+-,Bestiario 2,6,"Daemon, Ceustodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,6,"Demone, Babau","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 3,6,"Demone, Incubus","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 4,6,"Diavolo, Schiera","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 1,6,"Dinosauro, Anchilosauro",,"Foreste, Pianure",Animale
+Caldi,Bestiario 3,6,"Dinosauro, Iguanodonte",,"Foreste, Paludi",Animale
+Caldi,Bestiario 1,6,"Dinosauro, Plesiosauro",,Acquatici,Animale
+Qualsiasi,Bestiario 2,6,Draco di Mare,Acquatico,Zone Costiere,Drago
+Freddi,Bestiario 1,6,"Drago Cromatico, Bianco Giovane",Freddo,Montagne,Drago
+Caldi,Bestiario 1,6,"Drago Metallico, Rame Molto Giovane",Terra,Colline,Drago
+Caldi,Bestiario 1,6,"Drago Cromatico, Rosso Cucciolo",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,6,"Drago Cromatico, Verde Molto Giovane",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,6,"Drago Esterno, Vortice Cucciolo",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 3,6,"Drago Imperiale, Foresta Cucciolo",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,6,"Drago Imperiale, Mare Molto Giovane",Acqua,Acquatici,Drago
+Temperati,Bestiario 1,6,"Drago Metallico, Argento Cucciolo",Freddo,Montagne,Drago
+Qualsiasi,Bestiario 2,6,"Drago Primevo, Cristallo Giovane","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,6,"Drago Primevo, Magma Molto Giovane","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+-,Bestiario 2,6,"Drago Primevo, Ombre Cucciolo",Extraplanare,Qualsiasi,Drago
+Freddi,Bestiario 1,6,Ettin,Gigante,Colline,Umanoide
+Temperati,Bestiario 4,6,Fanciulla Cigno,Mutaforma,"Laghi, Paludi",Folletto
+Caldi,Bestiario 3,6,Formicaleone Gigante Adulto,,Deserti,Parassita
+Qualsiasi,Bestiario 1,6,Fuoco Fatuo,Aria,Paludi,Aberrazione
+Temperati,Bestiario 2,6,Gigante dei Boschi,Gigante,Foreste,Umanoide
+Qualsiasi,Bestiario 4,6,Gigante dei Fiumi,Gigante,Fiumi,Umanoide
+Qualsiasi,Bestiario 3,6,Gigante delle Caverne,Gigante,Sotterranei,Umanoide
+Caldi,Bestiario 1,6,Girallon,,Foreste,Bestia Magica
+-,Bestiario 1,6,"Golem, Legno",,Qualsiasi,Costrutto
+-,Bestiario 4,6,"Golem, Sangue",,Qualsiasi,Costrutto
+Temperati,Bestiario 3,6,Hodag,,"Foreste, Paludi",Bestia Magica
+Temperati,Bestiario 1,6,Idra a 7 Teste,,Paludi,Bestia Magica
+"Freddi, Temperati",Bestiario 3,6,Kamadan Polare,,Pianure,Bestia Magica
+Qualsiasi,Bestiario 4,6,Karkinoi,Acquatico,Acquatici,Umanoide Mostruoso
+-,Bestiario 1,6,"Kyton, Evangelista","Malvagio, Extraplanare, Kyton, Legale",Qualsiasi,Esterno
+Temperati,Bestiario 1,6,Lamia,,Deserti,Umanoide Mostruoso
+-,Bestiario 4,6,Locusta dell'Apocalisse,"Extraplanare, Malvagio, Mitico",Qualsiasi Piano di Allineamento Malvagio,Esterno
+Temperati,Bestiario 2,6,Luccio Gigante,Acquatico,Acque Dolci,Animale
+Qualsiasi,Bestiario 4,6,Lunarma,,Sotterranei,Aberrazione
+"Caldi, Temperati",Bestiario 3,6,Maftet,,"Deserti, Montagne",Umanoide Mostruoso
+Caldi,Bestiario 1,6,Manticora Avanzata,,"Colline, Pianure",Bestia Magica
+Caldi,Avventure Mitiche,6,Manticora Mitica,Mitico,"Colline, Pianure",Bestia Magica
+Qualsiasi,Bestiario 4,6,"Meccanico, Destriero",Meccanico,Terreno,Costrutto
+-,Bestiario 3,6,"Meccanico, Soldato",Meccanico,Qualsiasi,Costrutto
+Temperati,Bestiario 2,6,"Megafauna, Gliptodonte",,Pianure,Animale
+Freddi,Bestiario 3,6,Megera Annis,,Paludi,Umanoide Mostruoso
+Freddi,Bestiario 1,6,Melma dell'Id,,"Paludi, Sotterranei",Melma
+Temperati,Bestiario 2,6,Merrow d'Acqua Salata,"Acquatico, Gigante","Fiumi, Laghi",Umanoide
+-,Bestiario 4,6,Mi-go,,Qualsiasi,Vegetale
+"Caldi, Temperati",Bestiario 1,6,Millepiedi Gigante dei Boschi,,"Foreste, Sotterranei",Parassita
+Temperati,Bestiario 1,6,Minotauro Mezzo-Immondo,Nativo,"Rovine, Sotterranei",Esterno
+Temperati,Avventure Mitiche,6,Minotauro Mitico,Mitico,"Sotterranei, Rovine",Umanoide Mostruoso
+-,Bestiario 1,6,Muffa Rugginosa,,Sotterranei,Vegetale
+Qualsiasi,Bestiario 3,6,Naga Lunare,,Terreni,Aberrazione
+Temperati,Bestiario 3,6,Nebbia Affamata,,Qualsiasi,Melma
+Qualsiasi,Bestiario 4,6,Owb,Extraplanare,"Sotterranei, Terreni (Piano delle Ombre)",Esterno
+Qualsiasi,Bestiario 4,6,Pellecucita Potenziato,,Terreni,Costrutto
+Qualsiasi,Bestiario 4,6,Pellecucita Resistente,,Terreni,Costrutto
+Qualsiasi,Bestiario 1,6,Piroidra a 5 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+Freddi,Bestiario 1,6,Rinoceronte Lanoso,,Pianure,Animale
+Qualsiasi,Bestiario 2,6,Ritornante,,Terreni,Non Morto
+Freddi,Bestiario 2,6,Rospo dei Ghiacci,Freddo,"Colline, Ghiacciai",Bestia Magica
+-,Bestiario 1,6,Salamandra,"Extraplanare, Fuoco",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,6,Sciame di Meduse,"Acquatico, Sciame",Acquatici,Parassita
+Freddi,Avventure Mitiche,6,Scrag Mitico,"Acquatico, Gigante, Mitico",Montagne,Umanoide
+Qualsiasi,Bestiario 2,6,Seugathi,,Sotterranei,Aberrazione
+Qualsiasi,Bestiario 4,6,Signore del Fango,"Acqua, Elementale, Terra","Sotterranei, Terreni (Piano delle Ombre)",Esterno
+-,Bestiario 3,6,Soldato di Terracotta,,Qualsiasi,Costrutto
+-,Bestiario 3,6,Tela Assassina,,Qualsiasi,Non Morto
+"Caldi, Temperati",Bestiario 2,6,Tendriculos,,Foreste,Vegetale
+Qualsiasi,Bestiario 2,6,Tentamort Superiore,,"Paludi, Sotterranei",Aberrazione
+Qualsiasi,Bestiario 2,6,Troll delle Rocce,"Gigante, Terra",Sotterranei,Umanoide
+Freddi,Avventure Mitiche,6,Troll Mitico,"Gigante, Mitico",Montagne,Umanoide
+Qualsiasi,Bestiario 2,6,Uomo Falena,,Terreni,Umanoide Mostruoso
+-,Bestiario 3,6,Vampiro Jiang-Shi,Umanoide Potenziato,Qualsiasi,Non Morto
+Caldi,Bestiario 2,6,Verme Mortale,,"Colline, Deserti, Pianure",Bestia Magica
+"Caldi, Temperati",Bestiario 1,6,Viverna,,Colline,Drago
+Freddi,Avventure Mitiche,6,"Worg, Lupo Invernale Mitico","Freddo, Mitico","Foreste, Pianure",Bestia Magica
+-,Bestiario 1,6,Xill,"Extraplanare, Malvagio",Qualsiasi (Piano Etereo),Esterno
+-,Bestiario 1,6,Xorn,"Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+"Temperati, Tropicali",Bestiario 2,6,Zanzara Gigante,,Paludi,Parassita
+Qualsiasi,Bestiario 1,7,Aboleth,Acquatico,Acquatici,Aberrazione
+Temperati,Bestiario 2,7,Albero dell'Impiccato,,Foreste,Vegetale
+-,Bestiario 3,7,Amniotico,Extraplanare,Qualsiasi,Esterno
+-,Bestiario 3,7,"Arconte, Legionario","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+-,Bestiario 3,7,"Asura, Adhukait","Asura, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+-,Bestiario 1,7,"Azata, Lillend","Azata, Buono, Caotico, Extraplanare",Qualsiasi (Elysium),Esterno
+-,Bestiario 1,7,Barghest Superiore,"Extraplanare, Legale, Malvagio, Mutaforma",Qualsiasi,Esterno
+-,Bestiario 2,7,Bestia del Caos,"Caotico, Extraplanare",Qualsiasi,Esterno
+Temperati,Bestiario 1,7,Bulette,,Colline,Bestia Magica
+-,Bestiario 1,7,Cacciatore Invisibile,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+Qualsiasi,Bestiario 4,7,"Carnideforme, Halsora",,Sotterranei,Aberrazione
+-,Bestiario 3,7,Cavaliere di Terracotta,,Qualsiasi,Costrutto
+Freddi,Bestiario 2,7,Charda,Acquatico,"Acquatici, Sotterranei",Umanoide Mostruoso
+Temperati,Bestiario 1,7,Chimera,,Colline,Bestia Magica
+Temperati,Bestiario 1,7,Chuul,Acquatico,Paludi,Aberrazione
+Freddi,Bestiario 1,7,Crioidra a 6 Teste,Freddo,"Ghiacciai, Paludi",Bestia Magica
+-,Bestiario 2,7,"Daemon, Ceustodaemon Superiore","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,7,"Demone, Ombra","Caotico, Demone, Extraplanare, Incorporeo, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,7,"Demone, Succube","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+"Caldi, Temperati",Bestiario 2,7,"Dinosauro, Allosauro",,"Foreste, Pianure",Animale
+Caldi,Bestiario 1,7,"Dinosauro, Elasmosauro",,Acquatici,Animale
+Caldi,Bestiario 1,7,"Dinosauro, Stegosauro",,Pianure,Animale
+-,Bestiario 3,7,"Div, Pairaka","Div, Extraplanare, Malvagio, Mutaforma",Qualsiasi (Abaddon),Esterno
+-,Bestiario 2,7,Divora Anime,"Extraplanare, Malvagio",Qualsiasi Piano Esterno (Abaddon),Esterno
+Freddi,Bestiario 2,7,Draco di Ghiaccio,Freddo,Montagne,Drago
+Qualsiasi,Bestiario 4,7,Draco di Guglia,,Colline,Drago
+Temperati,Bestiario 1,7,Dracolisco,,"Paludi, Sotterranei",Drago
+Freddi,Bestiario 1,7,"Drago Cromatico, Bianco Adolescente",Freddo,Montagne,Drago
+Caldi,Bestiario 1,7,"Drago Cromatico, Blu Molto Giovane",Terra,Deserti,Drago
+Caldi,Bestiario 1,7,"Drago Cromatico, Nero Giovane",Acqua,Paludi,Drago
+Qualsiasi,Bestiario 4,7,"Drago Esterno, Lunare Molto Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,7,"Drago Esterno, Solare Molto Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,7,"Drago Esterno, Tempo Cucciolo",,Vuoto,Drago
+Qualsiasi,Bestiario 4,7,"Drago Esterno, Vuoto Molto Giovane",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,7,"Drago Imperiale, Cielo Molto Giovane",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,7,"Drago Imperiale, Sottosuolo Giovane",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,7,"Drago Imperiale, Sovrano Cucciolo",,Montagne,Drago
+Temperati,Bestiario 1,7,"Drago Metallico, Bronzo Molto Giovane",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,7,"Drago Metallico, Oro Cucciolo",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,7,"Drago Metallico, Ottone Giovane",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,7,"Drago Primevo, Cristallo Adolescente","Extraplanare, Terra",Sotterraneo (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,7,"Drago Primevo, Nuvole Molto Giovane","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+Qualsiasi,Bestiario 2,7,"Drago Primevo, Salsedine Giovane","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Temperati,Bestiario 3,7,Dragonne,,Deserti,Bestia Magica
+Qualsiasi,Bestiario 1,7,Drider,,Sotterranei,Aberrazione
+-,Bestiario 2,7,Dullahan,,Qualsiasi,Non Morto
+Caldi,Bestiario 1,7,Elefante,,Pianure,Animale
+-,Bestiario 2,7,Elementale del Fango Enorme,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,7,Elementale del Fulmine Enorme,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,7,Elementale del Fuoco Enorme,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,7,Elementale del Ghiaccio Enorme,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,7,Elementale del Magma Enorme,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,7,Elementale dell'Acqua Enorme,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,7,Elementale dell'Aria Enorme,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,7,Elementale della Terra Enorme,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,7,"Eone, Theletos","Eone, Extraplanare",Qualsiasi (Piani Esterni),Esterno
+-,Bestiario 1,7,Fantasma,"Incorporeo, Umanoide Potenziato",Qualsiasi,Non Morto
+"Caldi, Temperati",Bestiario 4,7,"Formian, Sorvegliante",,"Sotterranei, Terreni",Umanoide Mostruoso
+Qualsiasi,Bestiario 4,7,Gaki,,Terreni,Non Morto
+Qualsiasi,Bestiario 2,7,Gatto Infernale,"Extraplanare, Legale, Malvagio",Terreni (Inferno),Esterno
+Caldi,Bestiario 1,7,"Genio, Janni Nobile (Sceicco)",Nativo,Deserti,Esterno
+-,Bestiario 1,7,"Genio, Shaitan","Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Temperati,Bestiario 1,7,Gigante delle Colline,Gigante,Colline,Umanoide
+Caldi,Bestiario 4,7,Gigante delle Scorie,Gigante,"Montagne, Sotterranei",Umanoide
+-,Bestiario 1,7,"Golem, Carne",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 3,7,Granchio Mangiasquali,Acquatico,Acquatici,Parassita
+Temperati,Bestiario 1,7,Idra a 8 Teste,,Paludi,Bestia Magica
+-,Bestiario 3,7,Kirin,Aria,Qualsiasi,Bestia Magica
+Temperati,Avventure Mitiche,7,Lamia Mitica,"Mitico, Mutaforma",Deserti,Umanoide Mostruoso
+Qualsiasi,Bestiario 3,7,Manananggal,,Terreni,Non Morto
+Qualsiasi,Bestiario 4,7,Manichino Lega Anima,,Terreni,Costrutto
+Qualsiasi,Bestiario 4,7,"Meccanico, Destriero da Battaglia",Meccanico,Terreno,Costrutto
+Temperati,Bestiario 1,7,Medusa,,"Paludi, Sotterranei",Umanoide Mostruoso
+Qualsiasi,Bestiario 2,7,Medusa Gigante,Acquatico,Oceani,Parassita
+Temperati,Bestiario 2,7,"Megafauna, Arsinoiterio",,Pianure,Animale
+Caldi,Bestiario 3,7,"Megafauna, Megalania",,"Foreste, Pianure",Animale
+Freddi,Bestiario 4,7,Megera Invernale,Freddo,"Foreste, Pianure",Umanoide Mostruoso
+Qualsiasi,Bestiario 3,7,Melma Cerebrale,,"Rovine, Sotterranei",Melma
+Qualsiasi,Bestiario 2,7,Melma di Lava Cristallina,Fuoco,"Sotterranei, Vulcani",Melma
+Qualsiasi,Bestiario 2,7,Melma di Lava,Fuoco,"Sotterranei, Vulcani",Melma
+-,Avventure Mitiche,7,Mummia Mitica,Mitico,Qualsiasi,Non Morto
+Temperati,Bestiario 3,7,Naga Acquatico,Acquatico,Acquatici,Aberrazione
+Temperati,Bestiario 1,7,Ninfa,,Foreste,Folletto
+Qualsiasi,Bestiario 4,7,Oceanide,Acqua,Oceani,Folletto
+Freddi,Bestiario 1,7,Orso Crudele,,Foreste,Animale
+Qualsiasi,Bestiario 1,7,Piroidra a 6 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+-,Bestiario 2,7,"Protean, Naunet","Caotico, Extraplanare, Mutaforma, Protean",Qualsiasi (Limbo),Esterno
+Qualsiasi,Bestiario 1,7,Protoplasma Nero,,Sotterranei,Melma
+-,Bestiario 4,7,"Psicopompo, Vanth","Extraplanare, Psicopompo",Qualsiasi (Purgatorio),Esterno
+Temperati,Bestiario 3,7,Pukwudgie,Mutaforma,"Colline, Foreste, Montagne",Umanoide Mostruoso
+Freddi,Bestiario 4,7,Qallupilluk,Acquatico,Oceani,Umanoide Mostruoso
+-,Bestiario 2,7,"Qlippoth, Shoggti","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+Qualsiasi,Bestiario 4,7,"Razza Predatrice, Appostato",,Sotterranei,Aberrazione
+Freddi,Bestiario 1,7,Remorhaz,,"Deserti, Ghiacciai",Bestia Magica
+-,Bestiario 2,7,Sceaduinar,Extraplanare,Qualsiasi (Piano dell'Energia Negativa),Esterno
+-,Bestiario 3,7,Sciame di Larve Necrofaghe,Sciame,Qualsiasi,Parassita
+-,Bestiario 2,7,Segugio di Tindalos,"Extraplanare, Malvagio",Qualsiasi,Esterno
+Caldi,Bestiario 3,7,"Sfinge, Criosfinge",,"Colline, Deserti",Bestia Magica
+-,Bestiario 1,7,Spettro,Incorporeo,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 2,7,Totenmaske,Mutaforma,"Terreni, Sotterranei",Non Morto
+Qualsiasi,Avventure Mitiche,7,Troll delle Rocce Mitico,"Gigante, Terra, Mitico",Sotterranei,Umanoide
+-,Bestiario 3,7,Tupilaq,,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 4,7,Yaoguai,,Terreni,Bestia Magica
+Qualsiasi,Bestiario 4,7,Xenoperid,,"Sotterranei, Terreni",Parassita
+-,Bestiario 2,8,Abitante di Leng,"Caotico, Extraplanare, Malvagio",Qualsiasi,Esterno
+Qualsiasi,Bestiario 4,8,Ammasso di Frammenti,Fuoco,"Sotterranei, Vulcani",Melma
+-,Bestiario 2,8,Assiomita,"Extraplanare, Legale",Qualsiasi (Piani Legali),Esterno
+-,Bestiario 3,8,Baku,,Qualsiasi,Bestia Magica
+-,Avventure Mitiche,8,Barghest Superiore Mitico,"Extraplanare, Legale, Malvagio, Mitico, Mutaforma",Qualsiasi,Esterno
+Caldi,Bestiario 1,8,Behir,,"Colline, Deserti",Bestia Magica
+Qualsiasi,Bestiario 2,8,Bodak,Extraplanare,Terreni (Piani Esterni Malvagi),Non Morto
+-,Bestiario 4,8,Capitano delle Guardie Progenie del Baccello,Umanoide Potenziato,Qualsiasi,Vegetale
+-,Bestiario 4,8,Cefaloforo,,Qualsiasi,Costrutto
+Freddi,Bestiario 1,8,Crioidra a 7 Teste,Freddo,"Paludi, Ghiacciai",Bestia Magica
+-,Bestiario 2,8,"Daemon, Idrodaemon","Acquatico, Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,8,"Demone, Nabasu","Caotico, Demone, Malvagio, Nativo",Qualsiasi (Abisso),Esterno
+-,Bestiario 4,8,"Diavolo, Annegatore","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Qualsiasi,Bestiario 2,8,Destrachan,,Sotterranei,Aberrazione
+-,Bestiario 1,8,"Diavolo, Erinni","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 2,8,"Dinosauro, Tilosauro",,Acquatici,Animale
+Caldi,Bestiario 1,8,"Dinosauro, Triceratopo",,Pianure,Animale
+Qualsiasi,Bestiario 1,8,Divoracervelli,,Sotterranei,Aberrazione
+Caldi,Bestiario 3,8,Draco di Deserto,Terra,Deserti,Drago
+Caldi,Bestiario 1,8,"Drago Cromatico, Nero Adolescente",Acqua,Paludi,Drago
+Caldi,Bestiario 1,8,"Drago Cromatico, Rosso Molto Giovane",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,8,"Drago Cromatico, Verde Giovane",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,8,"Drago Esterno, Vortice Molto Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 3,8,"Drago Imperiale, Foresta Molto Giovane",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,8,"Drago Imperiale, Mare Giovane",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,8,"Drago Imperiale, Sottosuolo Adolescente",Fuoco,Sotterranei,Drago
+Temperati,Bestiario 1,8,"Drago Metallico, Argento Molto Giovane",Freddo,Montagne,Drago
+Caldi,Bestiario 1,8,"Drago Metallico, Ottone Adolescente",Fuoco,Deserti,Drago
+Caldi,Bestiario 1,8,"Drago Metallico, Rame Giovane",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,8,"Drago Primevo, Magma Giovane","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+-,Bestiario 2,8,"Drago Primevo, Ombre Molto Giovane",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,8,"Drago Primevo, Salsedine Adolescente","Acqua, Extraplanare",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 3,8,Eidolon Slegato,Extraplanare,Qualsiasi,Esterno
+-,Avventure Mitiche,8,Ettin Mitico,"Gigante, Mitico",Qualsiasi,Umanoide
+-,Avventure Mitiche,8,Ettin Sangue d'Orco,"Gigante, Mitico",Qualsiasi,Umanoide
+-,Avventure Mitiche,8,Ettin Sangue di Colline,"Gigante, Mitico",Qualsiasi,Umanoide
+-,Avventure Mitiche,8,Ettin Sangue di Pietra,"Gigante, Mitico",Qualsiasi,Umanoide
+Qualsiasi,Bestiario 2,8,Fiorlunare,,Terreni,Vegetale
+Freddi,Bestiario 3,8,Gelido Cavaliere,Freddo,Qualsiasi,Folletto
+-,Bestiario 1,8,"Genio, Djinni Nobile (Visir)","Aria, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,8,"Genio, Efreeti","Extraplanare, Fuoco",Qualsiasi (Piano del Fuoco),Esterno
+Temperati,Bestiario 2,8,Gigante delle Paludi,Gigante,Paludi,Umanoide
+Temperati,Bestiario 1,8,Gigante delle Rocce,Gigante,Montagne,Umanoide
+Caldi,Bestiario 3,8,Girtablilu,,Deserti,Umanoide Mostruoso
+-,Bestiario 3,8,"Golem, Ossa",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 2,8,"Golem, Vetro",,Terreni,Costrutto
+Qualsiasi,Bestiario 2,8,"Golem, Vetro Colorato",,Terreni,Costrutto
+Temperati,Bestiario 1,8,Gorgone,,"Colline Rocciose, Pianure, Sotterranei",Bestia Magica
+-,Bestiario 3,8,Guecubu,Terra,Qualsiasi,Non Morto
+Temperati,Bestiario 1,8,Idra a 9 Teste,,Paludi,Bestia Magica
+"Freddi, Temperati",Bestiario 3,8,Iku-Turso,Acquatico,"Acquatici, Sotterranei",Aberrazione
+Qualsiasi,Bestiario 2,8,Ippocampo Gigante,Acquatico,Acquatici,Bestia Magica
+Qualsiasi,Bestiario 2,8,Lamia Matriarca,Mutaforma,Terreni,Umanoide Mostruoso
+Temperati,Bestiario 3,8,Lammasu,,Deserti,Bestia Magica
+"Caldi, Temperati",Bestiario 1,8,Lumaca Gigante,,"Paludi, Sotterranei",Parassita
+Qualsiasi,Bestiario 3,8,Lupo Vestito Da Pecora,,Foreste,Aberrazione
+Caldi,Bestiario 3,8,"Megafauna, Baluchiterio",,Foreste,Animale
+Qualsiasi,Bestiario 4,8,Megera Sanguinaria,Mutaforma,Terreni,Umanoide Mostruoso
+Qualsiasi,Bestiario 2,8,Melma di Lava Sulfurea,Fuoco,"Sotterranei, Vulcani",Melma
+Qualsiasi,Bestiario 2,8,Melma di Lava Velenosa,Fuoco,"Sotterranei, Vulcani",Melma
+Qualsiasi,Bestiario 3,8,Melma Trappola Mortale,Mutaforma,Sotterranei,Melma
+Temperati,Bestiario 4,8,Menade,,"Foreste, Pianure",Umanoide Mostruoso
+-,Bestiario 2,8,Mihstu,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,8,Mohrg,,Qualsiasi,Non Morto
+-,Bestiario 1,8,Naga Oscuro,,Qualsiasi,Aberrazione
+-,Bestiario 2,8,Neh-Thalggu,,Qualsiasi,Aberrazione
+Caldi,Bestiario 3,8,Nephilim,Nativo,Colline,Esterno
+Qualsiasi,Bestiario 4,8,Ninfa Micotica,Folletto Potenziato,"Rovine, Sotterranei",Vegetale
+-,Bestiario 1,8,Ombra Superiore,Incorporeo,Qualsiasi,Non Morto
+Freddi,Bestiario 1,8,"Oni, Ogre Magi","Gigante, Mutaforma, Nativo, Oni",Colline,Esterno
+Qualsiasi,Bestiario 1,8,Piovra Gigante,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 1,8,Piroidra a 7 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+Temperati,Bestiario 2,8,Querciaviva,,Foreste,Vegetale
+-,Bestiario 3,8,"Rakshasa, Marai","Mutaforma, Nativo, Rakshasa",Qualsiasi,Esterno
+Qualsiasi,Bestiario 4,8,"Razza Predatrice, Intrappolatrice",,Sotterranei,Aberrazione
+Caldi,Bestiario 2,8,Scarabeo Goliath,,"Foreste, Pianure",Parassita
+-,Bestiario 3,8,Sciame di Vespe Infernali,"Extraplanare, Sciame",Qualsiasi (Inferno),Parassita
+Temperati,Bestiario 3,8,Scorpione Morterapida,,Foreste,Parassita
+Caldi,Bestiario 1,8,"Sfinge, Ginosfinge",,"Colline, Deserti",Bestia Magica
+Freddi,Bestiario 2,8,Shantak,,Montagne,Bestia Magica
+-,Bestiario 2,8,Sogno Animato,"Extraplanare, Incorporeo",Qualsiasi (Piano Etereo),Esterno
+Qualsiasi,Bestiario 4,8,Spirito Marcescente,Incorporeo,"Sotterranei, Terreni",Non Morto
+Temperati,Bestiario 2,8,Squartatore Grigio,,Paludi,Bestia Magica
+Caldi,Bestiario 3,8,Stinfalide,,"Pianure, Zone Costiere",Bestia Magica
+-,Bestiario 4,8,Svartalfar,Extraplanare,Qualsiasi (Piano delle Ombre),Folletto
+Qualsiasi,Bestiario 2,8,Tarantola Gigante,,Foreste,Parassita
+Caldi,Bestiario 4,8,Testuggine Immensa,,Isole,Animale
+Qualsiasi,Bestiario 1,8,Tigre Crudele,,"Foreste, Pianure, Paludi",Animale
+Qualsiasi,Bestiario 1,8,Treant,,Foreste,Vegetale
+Freddi,Bestiario 4,8,Tricheco Imperatore,,Oceani,Animale
+Qualsiasi,Bestiario 2,8,Verme Tenebroso,Extraplanare,Terreni (Piano delle Ombre),Esterno
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Mitica,Mitico,Colline,Drago
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Bianca Mitica,Mitico,Colline,Drago
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Blu Mitica,Mitico,Colline,Drago
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Nera Mitica,Mitico,Colline,Drago
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Rossa Mitica,Mitico,Colline,Drago
+"Caldi, Temperati",Avventure Mitiche,8,Viverna Verde Mitica,Mitico,Colline,Drago
+-,Bestiario 1,8,Xorn Anziano,"Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Freddi,Bestiario 3,8,Yuki-Onna,"Freddo, Incorporeo",Qualsiasi,Non Morto
+"Temperati, Tropicali",Bestiario 2,8,Zanzara della Giungla,,Paludi,Parassita
+Qualsiasi,Avventure Mitiche,9,Aboleth Mitico,"Acquatico, Mitico",Acquatici,Aberrazione
+Qualsiasi,Bestiario 2,9,"Agathion, Avoral","Agathion, Buono, Extraplanare",Cieli (Nirvana),Esterno
+-,Bestiario 3,9,"Asura, Upasunda","Asura, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Temperati,Bestiario 2,9,Aurumvorax,,"Colline, Foreste, Pianure",Bestia Magica
+-,Bestiario 3,9,Baykok,,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 1,9,Calamaro Gigante,Acquatico,Oceani,Animale
+Qualsiasi,Bestiario 4,9,"Carnideforme, Irnakurse",,Sotterranei,Aberrazione
+-,Bestiario 2,9,Cavallo Dragone,Aria,Qualsiasi,Bestia Magica
+Caldi,Bestiario 1,9,Coccodrillo Crudele,,"Fiumi, Paludi",Animale
+Freddi,Bestiario 1,9,Crioidra a 8 Teste,Freddo,"Ghiacciai, Paludi",Bestia Magica
+-,Bestiario 2,9,"Daemon, Leucodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abbadon),Esterno
+-,Bestiario 1,9,"Demone, Vrock","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,9,"Diavolo, Ossa","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 1,9,"Dinosauro, Tirannosauro",,"Foreste, Pianure",Animale
+Caldi,Bestiario 3,9,Draco di Crepaccio,Terra,"Colline, Montagne",Drago
+Caldi,Bestiario 4,9,Draco di Lava,Fuoco,"Colline, Foreste, Montagne",Drago
+Freddi,Avventure Mitiche,9,"Drago Cromatico, Bianco Adolescente Mitico","Freddo, Mitico",Montagne,Drago
+Freddi,Bestiario 1,9,"Drago Cromatico, Bianco Adulto Giovane",Freddo,Montagne,Drago
+Caldi,Bestiario 1,9,"Drago Cromatico, Blu Giovane",Terra,Deserti,Drago
+Temperati,Bestiario 1,9,"Drago Cromatico, Verde Adolescente",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,9,"Drago Esterno, Lunare Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,9,"Drago Esterno, Solare Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,9,"Drago Esterno, Tempo Molto Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,9,"Drago Esterno, Vuoto Giovane",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,9,"Drago Imperiale, Cielo Giovane",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,9,"Drago Imperiale, Mare Adolescente",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,9,"Drago Imperiale, Sovrano Molto Giovane",,Montagne,Drago
+Temperati,Bestiario 1,9,"Drago Metallico, Bronzo Giovane",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,9,"Drago Metallico, Oro Molto Giovane",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,9,"Drago Metallico, Rame Adolescente",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,9,"Drago Primevo, Cristallo Adulto Giovane","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,9,"Drago Primevo, Magma Adolescente","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,9,"Drago Primevo, Nuvole Giovane","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+"Freddi, Temperati",Bestiario 1,9,"Elefante, Mastodonte",,"Foreste, Pianure",Animale
+-,Bestiario 2,9,Elementale del Fango Superiore,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,9,Elementale del Fulmine Superiore,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,9,Elementale del Fuoco Superiore,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,9,Elementale del Ghiaccio Superiore,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,9,Elementale del Magma Superiore,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,9,Elementale dell'Acqua Superiore,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,9,Elementale dell'Aria Superiore,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,9,Elementale della Terra Superiore,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Qualsiasi,Bestiario 4,9,Galvo,Acquatico,Acquatici,Bestia Magica
+Tropicali,Bestiario 3,9,Garuda,Nativo,"Colline, Montagne",Esterno
+-,Bestiario 4,9,Geist,Incorporeo,Qualsiasi (Siti Infestati o Rovine),Non Morto
+Qualsiasi,Bestiario 4,9,Gelatina Tirannica,Mitico,Sotterranei,Melma
+-,Bestiario 1,9,"Genio, Marid","Acqua, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+Temperati,Avventure Mitiche,9,Gigante delle Colline Mitico,"Gigante, Mitico",Colline,Umanoide
+Caldi,Bestiario 3,9,Gigante dei Deserti,Gigante,Deserti,Umanoide
+Freddi,Bestiario 1,9,Gigante del Gelo,"Freddo, Gigante",Montagne,Umanoide
+Temperati,Bestiario 2,9,Gigante delle Paludi Nato dal Mare,"Acquatico, Gigante",Paludi,Umanoide
+Temperati,Bestiario 1,9,Gigante delle Rocce Anziano,Gigante,Montagne,Umanoide
+"Caldi, Temperati",Bestiario 4,9,Gigante delle Rupi,Gigante,"Deserti, Pianure",Umanoide
+Caldi,Bestiario 4,9,Ginosfinge Mummificata,Bestia Magica Potenziata,Rovine,Non Morto
+-,Bestiario 2,9,"Golem, Alchemico",,Qualsiasi,Costrutto
+-,Avventure Mitiche,9,"Golem, Carne Mitico",Mitico,Qualsiasi,Costrutto
+Caldi,Bestiario 4,9,"Golem, Corallo",,"Oceani, Zone Costiere",Costrutto
+Temperati,Avventure Mitiche,9,Idra Mitica,Mitico,Paludi,Bestia Magica
+Temperati,Bestiario 1,9,Idra a 10 Teste,,Paludi,Bestia Magica
+Freddi,Bestiario 4,9,Ijiraq,Mutaforma,"Foreste, Pianure",Folletto
+Qualsiasi,Bestiario 2,9,"Inevitabile, Zelekhut","Extraplanare, Inevitabile, Legale",Terreni (Piano Legale),Esterno
+Temperati,Bestiario 2,9,Irthak,,"Deserti, Colline, Montagne",Bestia Magica
+-,Bestiario 2,9,Jyoti,Extraplanare,Qualsiasi (Piano dell'Energia Positiva),Esterno
+Qualsiasi,Bestiario 4,9,Leanan Sidhe,Mitico,Terreni,Folletto
+-,Bestiario 4,9,Lillend Anima Spezzata,"Azata, Caotico, Extraplanare, Malvagio",Qualsiasi,Esterno
+Qualsiasi,Bestiario 4,9,"Meccanico, Magio",Meccanico,Terreni,Costrutto
+Temperati,Avventure Mitiche,9,Medusa Mitica,Mitico,"Paludi, Sotterranei",Umanoide Mostruoso
+Qualsiasi,Bestiario 2,9,Megera Ardente,Incorporeo,"Foreste, Paludi",Non Morto
+-,Bestiario 1,9,Megera Notturna,"Extraplanare, Malvagio",Qualsiasi Piano di Allineamento Malvagio,Esterno
+"Caldi, Temperati",Bestiario 2,9,Millepiedi Titano,,"Foreste, Sotterranei",Parassita
+Qualsiasi,Bestiario 3,9,Mostro di Sargassi,Acquatico,Oceani,Vegetale
+Temperati,Bestiario 1,9,Naga Spirituale,,Paludi,Aberrazione
+Temperati,Bestiario 4,9,Nependis,,Foreste,Umanoide Mostruoso
+Freddi,Bestiario 3,9,Nuckelavee,Acquatico,"Paludi, Zone Costiere",Folletto
+Qualsiasi,Bestiario 1,9,Piroidra a 8 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+Caldi,Bestiario 1,9,Roc,,Montagne,Animale
+Temperati,Bestiario 2,9,Sciame di Zecche,Sciame,Foreste,Parassita
+-,Bestiario 1,9,Segugio Infernale Nessiano,"Extraplanare, Fuoco, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 3,9,"Sfinge, Androsfinge",,"Colline, Deserti",Bestia Magica
+Caldi,Bestiario 3,9,Shedu,,Deserti,Bestia Magica
+Qualsiasi,Bestiario 1,9,Squalo Crudele,Acquatico,Oceani,Animale
+"Caldi, Temperati",Bestiario 2,9,Tartaruga Azzannatrice Gigante,,"Acque, Spiagge",Animale
+Temperati,Bestiario 1,9,Testuggine Dragona,Acquatico,Acquatici,Drago
+Caldi,Bestiario 4,9,Tikbalang,,"Foreste, Giungle",Umanoide Mostruoso
+-,Bestiario 1,9,Vampiro,Umanoide Potenziato,Qualsiasi,Non Morto
+-,Bestiario 3,9,Yithian,,Qualsiasi,Aberrazione
+Caldi,Bestiario 4,1,Abaia,Acquatico,Laghi,Bestia Magica
+Temperati,Bestiario 1,1,Acchiappamosche Gigante,,Paludi,Vegetale
+Freddi,Bestiario 3,1,Adlet,"Adlet, Freddo","Colline, Montagne, Pianure",Umanoide
+Caldi,Bestiario 2,1,Anaconda Gigante,,Paludi,Animale
+-,Bestiario 2,1,"Angelo, Deva Movanico","Angelo, Buono, Extraplanare",Qualsiasi Piano di Allineamento Buono,Esterno
+-,Bestiario 2,1,"Arconte, Scudo","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+Qualsiasi,Bestiario 2,1,Balena,,Oceani,Animale
+-,Bestiario 1,1,Bebilith,"Caotico, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+Qualsiasi,Bestiario 4,1,"Carnideforme, Ghonhatine",,Sotterranei,Aberrazione
+-,Bestiario 4,1,Colore Venuto dallo Spazio,Incorporeo,Qualsiasi,Melma
+Caldi,Bestiario 1,1,Couatl,Nativo,Foreste,Esterno
+Freddi,Bestiario 1,1,Crioidra a 9 Teste,Freddo,"Ghiacciai, Paludi",Bestia Magica
+-,Bestiario 2,1,"Daemon, Piscodaemon","Acquatico, Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 2,1,"Demone, Kalavakus","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 3,1,"Diavolo, Contratto","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 1,1,"Dinosauro, Brachiosauro",,"Foreste, Pianure",Animale
+-,Bestiario 3,1,"Div, Ghawwas","Acquatico, Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Freddi,Bestiario 1,1,"Drago Cromatico, Bianco Adulto",Freddo,Montagne,Drago
+Caldi,Bestiario 1,1,"Drago Cromatico, Blu Adolescente",Terra,Deserti,Drago
+Caldi,Bestiario 1,1,"Drago Cromatico, Nero Adulto Giovane",Acqua,Paludi,Drago
+Caldi,Bestiario 1,1,"Drago Cromatico, Rosso Giovane",Fuoco,Montagne,Drago
+Qualsiasi,Bestiario 4,1,"Drago Esterno, Lunare Adolescente",,Vuoto,Drago
+Qualsiasi,Bestiario 4,1,"Drago Esterno, Solare Adolescente",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,1,"Drago Esterno, Vortice Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,1,"Drago Esterno, Vuoto Adolescente",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,1,"Drago Imperiale, Cielo Adolescente",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,1,"Drago Imperiale, Foresta Giovane",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,1,"Drago Imperiale, Sottosuolo Adulto Giovane",Fuoco,Sotterranei,Drago
+Temperati,Bestiario 1,1,"Drago Metallico, Argento Giovane",Freddo,Montagne,Drago
+Temperati,Bestiario 1,1,"Drago Metallico, Bronzo Adolescente",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,1,"Drago Metallico, Ottone Adulto Giovane",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,1,"Drago Primevo, Cristallo Adulto","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,1,"Drago Primevo, Nuvole Adolescente","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,1,"Drago Primevo, Ombre Giovane",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,1,"Drago Primevo, Salsedine Adulto Giovane","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 2,1,Dullahan Superiore,,Qualsiasi,Non Morto
+-,Bestiario 4,1,Einherji,Extraplanare,Qualsiasi,Esterno
+"Caldi, Temperati",Bestiario 4,1,"Formian, Mirmarca",,"Sotterranei, Terreni",Umanoide Mostruoso
+-,Bestiario 1,1,"Genio, Efreeti Nobile (Malik)","Extraplanare, Fuoco",Qualsiasi (Piano del Fuoco),Esterno
+Caldi,Bestiario 4,1,Gholdako,,Zone Costiere,Non Morto
+Caldi,Bestiario 1,1,Gigante del Fuoco,"Fuoco, Gigante",Montagne,Umanoide
+Caldi,Bestiario 3,1,Gigante delle Giungle,Gigante,Foreste,Umanoide
+-,Bestiario 1,1,"Golem, Argilla",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 1,1,Granchio Gigante degli Scogli,Acquatico,Acquatici,Parassita
+Qualsiasi,Bestiario 2,1,Gug,,Sotterranei,Aberrazione
+Temperati,Bestiario 1,1,Idra a 11 Teste,,Paludi,Bestia Magica
+Temperati,Avventure Mitiche,1,Il Primo Orsogufo (Mitico),Mitico,Foreste,Bestia Magica
+Caldi,Bestiario 2,1,Ippopotamo Behemoth,,Fiumi,Animale
+-,Bestiario 3,1,"Kami, Zuishin","Kami, Nativo",Qualsiasi,Esterno
+"Caldi, Temperati",Bestiario 4,1,Kapre,,Foreste,Vegetale
+-,Bestiario 4,1,"Kyton, Sagrestano","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+Qualsiasi,Avventure Mitiche,1,Lamia Matriarca Mitica,"Mitico, Mutaforma",Terreni,Umanoide Mostruoso
+Temperati,Bestiario 4,1,Mirmeleontide,Mitico,"Colline, Pianure",Bestia Magica
+Temperati,Bestiario 3,1,Mobogo,Acquatico,Paludi,Bestia Magica
+Temperati,Bestiario 1,1,Naga Guardiano,,Pianure,Aberrazione
+Qualsiasi,Bestiario 2,1,Nereide,Acqua,Acquatici,Folletto
+Caldi,Bestiario 3,1,Nue,,"Foreste, Montagne",Bestia Magica
+-,Bestiario 3,1,Pallido Straniero,,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 1,1,Piroidra a 9 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+Temperati,Bestiario 4,1,Progenie di Yog-Sothoth,Extraplanare,Colline,Aberrazione
+-,Bestiario 2,1,"Protean, Imentesh","Caotico, Extraplanare, Mutaforma, Protean",Qualsiasi (Limbo),Esterno
+-,Bestiario 2,1,"Qlippoth, Nyogoth","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,1,"Rakshasa, Comune","Mutaforma, Nativo",Qualsiasi,Esterno
+Caldi,Bestiario 4,1,Rukh,,"Deserti, Montagne",Bestia Magica
+Qualsiasi,Bestiario 2,1,Serpe d'Acqua,Acquatico,Laghi,Bestia Magica
+Caldi,Avventure Mitiche,1,Sfinge Mitica,Mitico,"Colline, Deserti",Bestia Magica
+Qualsiasi,Bestiario 3,1,Siyokoy,Acquatico,Oceani,Aberrazione
+Qualsiasi,Bestiario 4,1,Tiberolith,,"Acquatici, Zone Costiere",Costrutto
+-,Bestiario 3,1,Tophet,,Qualsiasi,Costrutto
+Qualsiasi,Avventure Mitiche,1,Treant Mitico,Mitico,Foreste,Vegetale
+-,Bestiario 3,1,Uomo Nero,,Qualsiasi,Folletto
+Qualsiasi,Bestiario 4,1,"Vampiro, Nosferatu","Umanoide Potenziato, Umano","Rovine, Urbani",Non Morto
+-,Avventure Mitiche,1,Vampiro Mitico,"Mitico, Umanoide Potenziato, Umano",Qualsiasi,Non Morto
+Temperati,Bestiario 4,1,Vellosa,,"Paludi, Pianure",Drago
+Temperati,Bestiario 1,11,Acchiappamosche Gigante Avanzato,,Paludi,Vegetale
+Freddi,Bestiario 3,11,Adlet Sciamano,"Adlet, Freddo","Colline, Montagne, Pianure",Umanoide
+-,Bestiario 3,11,"Asura, Aghasura","Asura, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Qualsiasi,Bestiario 3,11,Bestia Lunare,,Terreni,Aberrazione
+-,Bestiario 3,11,Bhuta,Incorporeo,Qualsiasi Area Naturale di Superficie,Non Morto
+-,Bestiario 3,11,Cavaliere Tombale,"Umanoide Potenziato, Umano",Qualsiasi,Non Morto
+Freddi,Bestiario 1,11,Crioidra a 10 Teste,Freddo,"Ghiacciai, Paludi",Bestia Magica
+-,Bestiario 3,11,Cristallo Carnivoro,"Extraplanare, Terra",Qualsiasi Sotterraneo (Piano della Terra),Melma
+-,Bestiario 2,11,"Daemon, Meladaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,11,"Demone, Hezrou","Acquatico, Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Avventure Mitiche,11,"Demone, Vrock Mitico","Caotico, Demone, Extraplanare, Malvagio, Mitico",Qualsiasi (Abisso),Esterno
+-,Avventure Mitiche,11,"Diavolo, Ossa Mitico","Diavolo, Extraplanare, Legale, Malvagio, Mitico",Qualsiasi (Inferno),Esterno
+-,Bestiario 1,11,"Diavolo, Uncinato","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 3,11,"Dinosauro, Spinosauro",,Foreste,Animale
+-,Bestiario 1,11,Divoratore,Extraplanare,Qualsiasi,Non Morto
+-,Bestiario 4,11,Dorvae,Malvagio,Qualsiasi (Piani Malvagi),Esterno
+Freddi,Bestiario 1,11,"Drago Cromatico, Bianco Adulto Maturo",Freddo,Montagne,Drago
+Caldi,Bestiario 1,11,"Drago Cromatico, Nero Adulto",Acqua,Paludi,Drago
+Caldi,Bestiario 1,11,"Drago Cromatico, Rosso Adolescente",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,11,"Drago Cromatico, Verde Adulto Giovane",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,11,"Drago Esterno, Tempo Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,11,"Drago Esterno, Vortice Adolescente",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 3,11,"Drago Imperiale, Foresta Adolescente",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,11,"Drago Imperiale, Mare Adulto Giovane",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,11,"Drago Imperiale, Sottosuolo Adulto",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,11,"Drago Imperiale, Sovrano Giovane",,Montagne,Drago
+Temperati,Bestiario 1,11,"Drago Metallico, Argento Adolescente",Freddo,Montagne,Drago
+Caldi,Bestiario 1,11,"Drago Metallico, Oro Giovane",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,11,"Drago Metallico, Ottone Adulto",Fuoco,Deserti,Drago
+Caldi,Bestiario 1,11,"Drago Metallico, Rame Adulto Giovane",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,11,"Drago Primevo, Cristallo Adulto Maturo","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,11,"Drago Primevo, Magma Adulto Giovane","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+-,Bestiario 2,11,"Drago Primevo, Ombre Adolescente",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,11,"Drago Primevo, Salsedine Adulto","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 2,11,Elementale del Fango Anziano,"Acqua, Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 2,11,Elementale del Fulmine Anziano,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,11,Elementale del Fuoco Anziano,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+Qualsiasi,Bestiario 2,11,Elementale del Ghiaccio Anziano,"Acqua, Aria, Elementale, Extraplanare","Specchi d'Acqua, Terreni (Piano dell'Acqua)",Esterno
+-,Bestiario 2,11,Elementale del Magma Anziano,"Fuoco, Elementale, Extraplanare",Qualsiasi (Piano del Fuoco),Esterno
+-,Bestiario 1,11,Elementale dell'Acqua Anziano,"Acqua, Elementale, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+-,Bestiario 1,11,Elementale dell'Aria Anziano,"Aria, Elementale, Extraplanare",Qualsiasi (Piano dell'Aria),Esterno
+-,Bestiario 1,11,Elementale della Terra Anziano,"Elementale, Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+-,Bestiario 1,11,"Genio, Marid Nobile (Shahzada)","Acqua, Extraplanare",Qualsiasi (Piano dell'Acqua),Esterno
+Qualsiasi,Bestiario 3,11,Gigante delle Ceneri,Gigante,Desolazioni,Umanoide
+Caldi,Bestiario 4,11,Gholdako del Terrore,,Zone Costiere,Non Morto
+Temperati,Bestiario 1,11,Gigante delle Nuvole,Gigante,Montagne,Umanoide
+-,Bestiario 1,11,"Golem, Pietra",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 2,11,Gug Sapiente,,Sotterranei,Aberrazione
+Qualsiasi,Bestiario 4,11,Harionago,,Terreni,Non Morto
+Temperati,Bestiario 1,11,Idra a 12 Teste,,Paludi,Bestia Magica
+-,Bestiario 1,11,"Incubo, Cauchemar","Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Temperati,Bestiario 4,11,Jinmenju,,"Colline, Montagne",Vegetale
+-,Bestiario 4,11,Juggernaut,,Qualsiasi,Costrutto
+Caldi,Bestiario 3,11,Lukwata,Acquatico,"Fiumi, Laghi, Paludi",Bestia Magica
+"Caldi, Temperati",Bestiario 3,11,Medusa Zaffiro,Acquatico,Oceani,Parassita
+Qualsiasi,Bestiario 3,11,Naga Reale,Mutaforma,Terreni,Aberrazione
+Qualsiasi,Bestiario 1,11,Piroidra a 10 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+Qualsiasi,Bestiario 4,11,Ragno Golia,,"Foreste, Paludi",Parassita
+-,Bestiario 1,11,Recuperatore,Extraplanare,Qualsiasi (Abisso),Costrutto
+Caldi,Bestiario 4,11,Scorpione Imperatore Gigante,,Deserti,Parassita
+-,Avventure Mitiche,11,Segugio da Guerra di Nessus Mitico,"Extraplanare, Fuoco, Legale, Malvagio, Mitico",Qualsiasi (Inferno),Esterno
+"Caldi, Temperati",Bestiario 4,11,Seps,,"Deserti, Foreste",Bestia Magica
+Caldi,Bestiario 3,11,Signore degli Animali,"Nativo, Mutaforma",Giungle,Esterno
+Freddi,Bestiario 3,11,Sleipnir,,Montagne,Bestia Magica
+-,Bestiario 3,11,Taotieh,,Qualsiasi,Costrutto
+-,Bestiario 3,11,"Thriae, Veggente",,Qualsiasi,Umanoide Mostruoso
+Qualsiasi,Bestiario 2,11,Uccello del Tuono,,"Colline, Montagne",Bestia Magica
+Qualsiasi,Bestiario 2,12,"Agathion, Leonal","Agathion, Buono, Extraplanare",Terreni (Nirvana),Esterno
+-,Bestiario 2,12,"Angelo, Deva Monadico","Acquatico, Angelo, Buono, Extraplanare",Qualsiasi Piano di Allineamento Buono,Esterno
+-,Bestiario 4,12,Aoandon,"Incorporeo, Nativo",Qualsiasi,Esterno
+"Freddi, Temperati",Bestiario 2,12,Athach,Gigante,Colline,Umanoide
+Caldi,Bestiario 3,12,Baregara,"Caotico, Extraplanare, Malvagio",Foreste (Abisso),Esterno
+Qualsiasi,Bestiario 2,12,Catoblepa,,Paludi,Bestia Magica
+Freddi,Bestiario 1,12,Crioidra a 11 Teste,Freddo,"Ghiacciai, Paludi",Bestia Magica
+-,Bestiario 2,12,"Daemon, Derghodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 3,12,"Demone, Coloxus","Caotico, Demone, Extraplanare, Malvagio",Urbani (Abisso),Esterno
+-,Bestiario 2,12,"Demone, Omox","Acquatico, Caotico, Demone, Extraplanare",Qualsiasi (Abisso),Esterno
+Caldi,Bestiario 4,12,"Dinosauro, Diplodoco",,Pianure,Animale
+-,Bestiario 3,12,"Div, Shira","Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Caldi,Bestiario 1,12,"Drago Cromatico, Blu Adulto Giovane",Terra,Deserti,Drago
+Caldi,Bestiario 1,12,"Drago Cromatico, Nero Adulto Maturo",Acqua,Paludi,Drago
+Caldi,Avventure Mitiche,12,"Drago Cromatico, Rosso Giovane Mitico","Fuoco, Mitico",Montagne,Drago
+Temperati,Bestiario 1,12,"Drago Cromatico, Verde Adulto",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,12,"Drago Esterno, Lunare Adulto Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,12,"Drago Esterno, Solare Adulto Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,12,"Drago Esterno, Tempo Adolescente",,Vuoto,Drago
+Qualsiasi,Bestiario 4,12,"Drago Esterno, Vuoto Adulto Giovane",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,12,"Drago Imperiale, Cielo Adulto Giovane",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,12,"Drago Imperiale, Mare Adulto",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,12,"Drago Imperiale, Sovrano Adolescente",,Montagne,Drago
+Qualsiasi,Bestiario 3,12,"Drago Imperiale, Sottosuolo Adulto Maturo",Fuoco,Sotterranei,Drago
+Temperati,Bestiario 1,12,"Drago Metallico, Bronzo Adulto Giovane",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,12,"Drago Metallico, Oro Adolescente",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,12,"Drago Metallico, Ottone Adulto Maturo",Fuoco,Deserti,Drago
+Caldi,Bestiario 1,12,"Drago Metallico, Rame Adulto",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,12,"Drago Primevo, Magma Adulto","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,12,"Drago Primevo, Nuvole Adulto Giovane","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+Qualsiasi,Bestiario 2,12,"Drago Primevo, Salsedine Adulto Maturo","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 2,12,"Eone, Akhana","Eone, Extraplanare",Qualsiasi (Piani Esterni),Esterno
+Qualsiasi,Bestiario 2,12,Figlio Splendente,"Extraplanare, Malvagio",Terreni (Extraplanare),Esterno
+Qualsiasi,Bestiario 1,12,Fustigatore,,Sotterranei,Aberrazione
+Caldi,Avventure Mitiche,12,Gigante del Fuoco Mitico,"Gigante, Mitico",Montagne,Umanoide
+Freddi,Bestiario 2,12,Gigante della Taiga,Gigante,"Foreste, Montagne",Umanoide
+-,Bestiario 3,12,"Golem, Fossili",,Qualsiasi,Costrutto
+-,Bestiario 2,12,"Golem, Meccanico",,Qualsiasi,Costrutto
+"Temperati, Tropicali",Bestiario 3,12,Grande Ciclope,Gigante,Qualsiasi,Umanoide
+Qualsiasi,Bestiario 4,12,Guscio Lega Anima,,Terreni,Costrutto
+-,Bestiario 2,12,"Inevitabile, Kolyarut","Extraplanare, Inevitabile, Legale",Qualsiasi,Esterno
+Temperati,Bestiario 3,12,Jorogumo,Mutaforma,Valli Montane,Umanoide Mostruoso
+-,Bestiario 3,12,"Kyton, Interlocutore","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+-,Bestiario 1,12,Lich,Umanoide Potenziato,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 4,12,Lorelei,Acquatico,Zone Costiere,Aberrazione
+-,Bestiario 3,12,"Meccanico, Leviatano",Meccanico,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 3,12,"Megafauna, Basilosauro",,Oceani,Animale
+Qualsiasi,Bestiario 1,12,Piroidra a 11 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+-,Bestiario 2,12,"Qlippoth, Chernobue","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+-,Avventure Mitiche,12,"Rakshasa, Comune Mitico","Mitico, Mutaforma, Nativo",Qualsiasi,Esterno
+Qualsiasi,Bestiario 3,12,Rusalka,Acquatico,Acquatici,Folletto
+Qualsiasi,Bestiario 4,12,Sayona,,"Sotterranei, Terreni",Non Morto
+Qualsiasi,Bestiario 1,12,Serpente Marino,Acquatico,Oceani,Bestia Magica
+-,Bestiario 3,12,Valchiria,Extraplanare,Qualsiasi,Esterno
+Qualsiasi,Bestiario 1,12,Verme Acquatico,,Acquatici,Bestia Magica
+Freddi,Bestiario 2,12,Verme del Gelo,Freddo,"Montagne, Pianure",Bestia Magica
+Qualsiasi,Bestiario 1,12,Verme Purpureo,,Sotterranei,Bestia Magica
+Temperati,Bestiario 4,12,Vouivre,Acquatico,"Foreste, Fiumi, Laghi",Umanoide Mostruoso
+Freddi,Bestiario 3,13,Akhlut,"Freddo, Mutaforma","Laghi, Oceani, Pianure",Bestia Magica
+Temperati,Bestiario 3,13,Alraune,,Foreste,Vegetale
+Qualsiasi,Bestiario 4,13,Argus,Mitico,Terreni,Aberrazione
+-,Bestiario 1,13,"Azata, Ghaele","Azata, Buono, Caotico, Extraplanare, Mutaforma",Qualsiasi (Elysium),Esterno
+Qualsiasi,Bestiario 3,13,Azruverda,,Sotterranei,Aberrazione
+-,Bestiario 2,13,Banshee,Incorporeo,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 2,13,Cariddi,Acquatico,Oceani,Aberrazione
+Qualsiasi,Bestiario 3,13,Chiappabana Minore,,Foreste,Bestia Magica
+Freddi,Bestiario 1,13,Crioidra a 12 Teste,Freddo,"Paludi, Ghiacciai",Bestia Magica
+-,Bestiario 2,13,"Daemon, Tanadaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abbadon),Esterno
+-,Bestiario 3,13,"Demodand, Catramoso","Caotico, Demodand, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,13,"Demone, Glabrezu","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,13,"Diavolo, Ghiaccio","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Freddi,Bestiario 1,13,"Drago Cromatico, Bianco Vecchio",Freddo,Montagne,Drago
+Caldi,Bestiario 1,13,"Drago Cromatico, Blu Adulto",Terra,Deserti,Drago
+Caldi,Bestiario 1,13,"Drago Cromatico, Rosso Adulto Giovane",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,13,"Drago Cromatico, Verde Adulto Maturo",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,13,"Drago Esterno, Lunare Adulto",,Vuoto,Drago
+Qualsiasi,Bestiario 4,13,"Drago Esterno, Solare Adulto",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,13,"Drago Esterno, Vortice Adulto Giovane",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,13,"Drago Esterno, Vuoto Adulto",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,13,"Drago Imperiale, Cielo Adulto",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,13,"Drago Imperiale, Foresta Adulto Giovane",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,13,"Drago Imperiale, Mare Adulto Maturo",Acqua,Acquatici,Drago
+Temperati,Bestiario 1,13,"Drago Metallico, Argento Adulto Giovane",Freddo,Montagne,Drago
+Temperati,Bestiario 1,13,"Drago Metallico, Bronzo Adulto",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,13,"Drago Metallico, Rame Adulto Maturo",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,13,"Drago Primevo, Cristallo Vecchio","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,13,"Drago Primevo, Magma Adulto Maturo","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,13,"Drago Primevo, Nuvole Adulto","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,13,"Drago Primevo, Ombre Adulto Giovane",Extraplanare,Qualsiasi,Drago
+Temperati,Bestiario 1,13,Froghemoth,,Paludi,Aberrazione
+Qualsiasi,Bestiario 4,13,Fustigatore d'Ombra,Aberrazione Potenziata,Sotterranei,Esterno
+-,Bestiario 4,13,Gashadokuro,,Qualsiasi,Non Morto
+-,Bestiario 1,13,"Genio, Shaitan Nobile (Pasha)","Extraplanare, Terra",Qualsiasi (Piano della Terra),Esterno
+Qualsiasi,Bestiario 3,13,Ghorazagh,,Sotterranei,Aberrazione
+Caldi,Bestiario 1,13,Gigante delle Tempeste,Gigante,Qualsiasi,Umanoide
+-,Bestiario 1,13,"Golem, Ferro",,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 3,13,Granchio Spezzanavi,Acquatico,Acquatici,Parassita
+"Caldi, Temperati",Bestiario 2,13,Liana Vipera,,"Foreste, Paludi",Vegetale
+-,Bestiario 2,13,Melma Carnivora,,Qualsiasi,Melma
+Qualsiasi,Bestiario 1,13,Piroidra a 12 Teste,Fuoco,"Deserti, Vulcani",Bestia Magica
+-,Bestiario 4,13,"Psicopompo, Morrigna","Extraplanare, Psicopompo",Qualsiasi (Purgatorio),Esterno
+Qualsiasi,Bestiario 4,13,Sirena delle Alghe,Acquatico,Zone Costiere,Bestia Magica
+Qualsiasi,Bestiario 4,13,Stregone Pattuente del Diavolo,Umano,Urbani,Umanoide
+Qualsiasi,Bestiario 4,13,Uomo di Vimini,Fuoco,Terreni,Costrutto
+Qualsiasi,Bestiario 1,13,Verme Cremisi,,Sotterranei,Bestia Magica
+-,Bestiario 1,13,Wraith del Terrore,Incorporeo,Qualsiasi,Non Morto
+-,Bestiario 1,14,"Angelo, Deva Astrale","Angelo, Buono, Extraplanare",Qualsiasi Piano di Allineamento Buono,Esterno
+-,Bestiario 4,14,Ankou,Extraplanare,Qualsiasi (Territori Primevi dei Folletti),Folletto
+-,Bestiario 1,14,"Arconte, Trombettiere","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+Qualsiasi,Bestiario 2,14,Balena Bianca,,Oceani,Animale
+-,Bestiario 3,14,Demilich,,Qualsiasi,Non Morto
+-,Bestiario 1,14,"Demone, Nalfeshnee","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 2,14,"Diavolo, Ancillare","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+-,Bestiario 3,14,"Div, Sepid","Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Freddi,Bestiario 1,14,"Drago Cromatico, Bianco Molto Vecchio",Freddo,Montagne,Drago
+Caldi,Bestiario 1,14,"Drago Cromatico, Blu Adulto Maturo",Terra,Deserti,Drago
+Caldi,Bestiario 1,14,"Drago Cromatico, Nero Vecchio",Acqua,Paludi,Drago
+Caldi,Bestiario 1,14,"Drago Cromatico, Rosso Adulto",Fuoco,Montagne,Drago
+Qualsiasi,Bestiario 4,14,"Drago Esterno, Lunare Adulto Maturo",,Vuoto,Drago
+Qualsiasi,Bestiario 4,14,"Drago Esterno, Solare Adulto Maturo",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,14,"Drago Esterno, Tempo Adulto Giovane",,Vuoto,Drago
+Qualsiasi,Bestiario 4,14,"Drago Esterno, Vortice Adulto",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,14,"Drago Esterno, Vuoto Adulto Maturo",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,14,"Drago Imperiale, Cielo Adulto Maturo",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,14,"Drago Imperiale, Foresta Adulto",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,14,"Drago Imperiale, Sottosuolo Vecchio",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,14,"Drago Imperiale, Sovrano Adulto Giovane",,Montagne,Drago
+Temperati,Bestiario 1,14,"Drago Metallico, Argento Adulto",Freddo,Montagne,Drago
+Temperati,Bestiario 1,14,"Drago Metallico, Bronzo Adulto Maturo",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,14,"Drago Metallico, Oro Adulto Giovane",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,14,"Drago Metallico, Ottone Vecchio",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,14,"Drago Primevo, Cristallo Molto Vecchio","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,14,"Drago Primevo, Nuvole Adulto Maturo","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,14,"Drago Primevo, Ombre Adulto",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,14,"Drago Primevo, Salsedine Vecchio","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Qualsiasi,Bestiario 4,14,Gigante degli Oceani,"Acquatico, Gigante",Oceani,Umanoide
+-,Avventure Mitiche,14,Elementale del Fuoco Anziano Mitico,"Elementale, Extraplanare, Fuoco, Mitico",Qualsiasi (Piano del Fuoco),Umanoide
+-,Avventure Mitiche,14,Elementale dell'Acqua Anziano Mitico,"Acqua, Elementale, Extraplanare, Mitico",Qualsiasi (Piano dell'Acqua),Umanoide
+-,Avventure Mitiche,14,Elementale dell'Aria Anziano Mitico,"Aria, Elementale, Extraplanare, Mitico",Qualsiasi (Piano dell'Aria),Umanoide
+-,Avventure Mitiche,14,Elementale della Terra Anziano Mitico,"Elementale, Extraplanare, Mitico, Terra",Qualsiasi (Piano della Terra),Umanoide
+-,Bestiario 3,14,"Golem, Ottone",,Qualsiasi,Costrutto
+-,Bestiario 3,14,Kirin Imperatore,Aria,Qualsiasi,Bestia Magica
+"Caldi, Temperati",Bestiario 4,14,Ladro di Corpi,,Foreste,Vegetale
+Freddi,Bestiario 1,14,"Linnorm, Rupi",,Colline,Drago
+Temperati,Bestiario 1,14,Mantide Mortale,,Foreste,Parassita
+-,Bestiario 2,14,"Ombra Notturna, Ala Notturna","Extraplanare, Ombra Notturna",Qualsiasi (Piano dell'Energia Negativa),Non Morto
+Freddi,Bestiario 3,14,"Oni, Yai del Ghiaccio","Freddo, Oni, Gigante, Mutaforma, Nativo",Montagne,Esterno
+-,Bestiario 3,14,Peri,"Buono, Nativo",Qualsiasi Piano di Allineamento Buono,Esterno
+-,Bestiario 4,14,Polipo Volante,Aria,Qualsiasi,Aberrazione
+Qualsiasi,Bestiario 4,14,Rokurokubi,,Rovine,Umanoide Mostruoso
+-,Bestiario 2,14,"Qlippoth, Augnagar","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+-,Bestiario 2,14,Ragno di Leng,Extraplanare,Qualsiasi,Bestia Magica
+Qualsiasi,Bestiario 2,14,Vemerak,,Sotterranei,Aberrazione
+-,Bestiario 2,14,Verme che Cammina,"Umanoide Potenziato, Umano",Qualsiasi,Parassita
+Qualsiasi,Bestiario 4,14,Xanthos,,Terreni,Bestia Magica
+Qualsiasi,Bestiario 2,15,"Agathion, Cetaceal","Acquatico, Agathion, Buono, Extraplanare",Acquatici (Nirvana),Esterno
+Temperati,Bestiario 4,15,Amadriade,,Foreste,Folletto
+Qualsiasi,Bestiario 4,15,Barometz,,Foreste,Vegetale
+Qualsiasi,Bestiario 3,15,Bonzo di Mare,Acquatico,Oceani,Non Morto
+-,Bestiario 3,15,"Daemon, Crucidaemon","Extraplanare, Daemon, Malvagio",Qualsiasi (Abaddon),Esterno
+Freddi,Bestiario 1,15,"Drago Cromatico, Bianco Antico",Freddo,Montagne,Drago
+Caldi,Avventure Mitiche,15,"Drago Cromatico, Nero Adulto Maturo Mitico","Acqua, Sottotipo Mitico",Paludi,Drago
+Caldi,Bestiario 1,15,"Drago Cromatico, Nero Molto Vecchio",Acqua,Paludi,Drago
+Caldi,Bestiario 1,15,"Drago Cromatico, Rosso Adulto Maturo",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,15,"Drago Cromatico, Verde Vecchio",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,15,"Drago Esterno, Tempo Adulto",,Vuoto,Drago
+Qualsiasi,Bestiario 4,15,"Drago Esterno, Vortice Adulto Maturo",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 3,15,"Drago Imperiale, Foresta Adulto Maturo",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,15,"Drago Imperiale, Mare Vecchio",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,15,"Drago Imperiale, Sottosuolo Molto Vecchio",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,15,"Drago Imperiale, Sovrano Adulto",,Montagne,Drago
+Temperati,Bestiario 1,15,"Drago Metallico, Argento Adulto Maturo",Freddo,Montagne,Drago
+Caldi,Bestiario 1,15,"Drago Metallico, Oro Adulto",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,15,"Drago Metallico, Ottone Molto Vecchio",Fuoco,Deserti,Drago
+Caldi,Bestiario 1,15,"Drago Metallico, Rame Vecchio",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,15,"Drago Primevo, Cristallo Antico","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,15,"Drago Primevo, Magma Vecchio","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+-,Bestiario 2,15,"Drago Primevo, Ombre Adulto Maturo",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,15,"Drago Primevo, Salsedine Molto Vecchio","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+-,Bestiario 3,15,Dybbuk,Incorporeo,Qualsiasi,Non Morto
+Caldi,Bestiario 1,15,Fenice,Fuoco,"Colline, Deserti",Bestia Magica
+-,Bestiario 3,15,"Golem, Cannone",,Qualsiasi,Costrutto
+Temperati,Bestiario 3,15,Gorynych,,Foreste,Drago
+"Temperati, Tropicali",Avventure Mitiche,15,Grande Ciclope Mitico,"Gigante, Sottotipo Mitico",Qualsiasi,Umanoide
+-,Bestiario 2,15,"Inevitabile, Marut","Extraplanare, Inevitabile, Legale",Qualsiasi,Esterno
+Qualsiasi,Bestiario 4,15,Hyakume,,Sotterranei,Aberrazione
+Qualsiasi,Bestiario 3,15,"Kami, Toshigami","Kami, Nativo",Terreni,Esterno
+Tropicali,Bestiario 3,15,Kongamato,,Foreste,Drago
+Qualsiasi,Bestiario 4,15,Manitù,Nativo,"Pianure, Foreste",Esterno
+Qualsiasi,Bestiario 1,15,Neothelid,,Sotterranei,Aberrazione
+"Caldi, Temperati",Bestiario 3,15,"Oni, Yai del Fuoco","Fuoco, Gigante, Mutaforma, Nativo, Oni","Colline, Montagne",Esterno
+Caldi,Bestiario 3,15,Popobala,Mutaforma,"Foreste, Zone Costiere",Umanoide Mostruoso
+-,Bestiario 3,15,"Rakshasa, Tataka","Mutaforma, Nativo, Rakshasa",Qualsiasi,Esterno
+Caldi,Bestiario 2,15,Scorpione Nero,,Deserti,Parassita
+Freddi,Bestiario 3,15,Troll Jotund,Gigante,"Colline, Montagne",Umanoide
+"Caldi, Temperati",Bestiario 3,15,Uccello Jubjub,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 2,15,Xacarba,"Caotico, Extraplanare, Malvagio",Terreni (Abisso),Esterno
+Temperati,Bestiario 4,15,Ypotryll,,"Colline, Paludi, Zone Costiere",Bestia Magica
+-,Bestiario 1,16,"Angelo, Planetar","Angelo, Buono, Extraplanare",Qualsiasi Piano di Allineamento Buono,Esterno
+Qualsiasi,Bestiario 4,16,"Colosso, Carne","Colosso, Mitico",Terreni,Costrutto
+-,Bestiario 2,16,"Daemon, Astradaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon o Piano Astrale),Esterno
+-,Bestiario 3,16,Demilich Risvegliato,,Qualsiasi,Non Morto
+-,Bestiario 3,16,"Demodand, Viscido","Caotico, Demodand, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 2,16,"Demone, Shemhazian","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,16,"Diavolo, Cornuto","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+-,Avventure Mitiche,16,"Diavolo, Ghiaccio Mitico","Diavolo, Extraplanare, Legale, Malvagio, Mitico",Qualsiasi (Inferno),Esterno
+-,Bestiario 2,16,"Diavolo, Ingannatore","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Freddi,Bestiario 1,16,"Drago Cromatico, Bianco Dragone",Freddo,Montagne,Drago
+Caldi,Bestiario 1,16,"Drago Cromatico, Blu Vecchio",Terra,Deserti,Drago
+Caldi,Bestiario 1,16,"Drago Cromatico, Nero Antico",Acqua,Paludi,Drago
+Temperati,Bestiario 1,16,"Drago Cromatico, Verde Molto Vecchio",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,16,"Drago Esterno, Lunare Vecchio",,Vuoto,Drago
+Qualsiasi,Bestiario 4,16,"Drago Esterno, Solare Vecchio",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,16,"Drago Esterno, Vuoto Vecchio",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,16,"Drago Imperiale, Cielo Vecchio",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,16,"Drago Imperiale, Mare Molto Vecchio",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,16,"Drago Imperiale, Sottosuolo Antico",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,16,"Drago Imperiale, Sovrano Adulto Maturo",,Montagne,Drago
+Caldi,Bestiario 1,16,"Drago Metallico, Oro Adulto Maturo",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,16,"Drago Metallico, Ottone Antico",Fuoco,Deserti,Drago
+Temperati,Bestiario 1,16,"Drago Metallico, Bronzo Adulto Maturo",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,16,"Drago Metallico, Rame Molto Vecchio",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,16,"Drago Primevo, Cristallo Dragone","Extraplanare, Terra",Sotterranei (Piano della Terra),Drago
+Qualsiasi,Bestiario 2,16,"Drago Primevo, Magma Molto Vecchio","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,16,"Drago Primevo, Nuvole Vecchio","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+Qualsiasi,Bestiario 2,16,"Drago Primevo, Salsedine Antico","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Qualsiasi,Bestiario 3,16,Ecorché,,Terreni,Non Morto
+-,Bestiario 2,16,"Eone, Bythos","Eone, Extraplanare",Qualsiasi (Piani Esterni),Esterno
+-,Bestiario 2,16,"Golem, Mithral",,Qualsiasi,Costrutto
+Caldi,Bestiario 3,16,Grootslang,,"Fiumi, Laghi",Bestia Magica
+-,Bestiario 4,16,Irriducibile della Guerra,,Qualsiasi,Non Morto
+Freddi,Bestiario 3,16,"Linnorm, Fiordi",Acquatico,Zone Costiere Montuose,Drago
+Qualsiasi,Bestiario 4,16,"Meccanico, Drago",Meccanico,Terreni,Costrutto
+-,Bestiario 3,16,Melma di Plasma,,Qualsiasi,Melma
+-,Bestiario 4,16,Morto Uncinato,,Qualsiasi,Non Morto
+-,Bestiario 4,16,Oma,,"Giganti Gassose, Vuoto",Bestia Magica
+-,Bestiario 2,16,"Ombra Notturna, Gigante Notturno","Extraplanare, Ombra Notturna",Qualsiasi (Piano dell'Energia Negativa),Non Morto
+Qualsiasi,Bestiario 2,16,Scilla,Acquatico,Acque,Aberrazione
+Qualsiasi,Bestiario 3,16,Serpente Vuoto,,Sotterranei,Non Morto
+Qualsiasi,Bestiario 4,16,Zomok,Extraplanare,Foreste (Territori Primevi dei Folletti),Vegetale
+-,Bestiario 2,17,"Azata, Brijidine","Azata, Buono, Caotico, Extraplanare, Fuoco, Terra",Qualsiasi (Elysium),Esterno
+Qualsiasi,Bestiario 4,17,Bakekujira,Acquatico,Oceani,Non Morto
+Qualsiasi,Bestiario 4,17,Bhole,,Sotterranei,Bestia Magica
+Qualsiasi,Bestiario 3,17,Chiappabana,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 4,17,"Colosso, Ferro","Colosso, Mitico",Terreni,Costrutto
+-,Bestiario 1,17,"Demone, Marilith","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Avventure Mitiche,17,"Demone, Nalfeshnee Mitico","Caotico, Demone, Extraplanare, Malvagio, Mitico",Qualsiasi (Abisso),Esterno
+Freddi,Bestiario 2,17,Drago Bianco Antico Vorace,Freddo,Montagne,Non Morto
+Caldi,Avventure Mitiche,17,"Drago Cromatico, Blu Adulto Maturo Mitico",Terra,Deserti,Drago
+Caldi,Bestiario 1,17,"Drago Cromatico, Blu Molto Vecchio",Terra,Deserti,Drago
+Caldi,Bestiario 1,17,"Drago Cromatico, Nero Dragone",Acqua,Paludi,Drago
+Caldi,Bestiario 1,17,"Drago Cromatico, Rosso Vecchio",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,17,"Drago Cromatico, Verde Antico",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,17,"Drago Esterno, Lunare Molto Vecchio",,Vuoto,Drago
+Qualsiasi,Bestiario 4,17,"Drago Esterno, Solare Molto Vecchio",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,17,"Drago Esterno, Vortice Vecchio",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,17,"Drago Esterno, Vuoto Molto Vecchio",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,17,"Drago Imperiale, Cielo Molto Vecchio",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,17,"Drago Imperiale, Foresta Vecchio",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,17,"Drago Imperiale, Mare Antico",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,17,"Drago Imperiale, Sottosuolo Dragone",Fuoco,Sotterranei,Drago
+Temperati,Bestiario 1,17,"Drago Metallico, Argento Vecchio",Freddo,Montagne,Drago
+Temperati,Bestiario 1,17,"Drago Metallico, Bronzo Molto Vecchio",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,17,"Drago Metallico, Ottone Dragone",Fuoco,Deserti,Drago
+Caldi,Bestiario 1,17,"Drago Metallico, Rame Antico",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,17,"Drago Primevo, Magma Antico","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,17,"Drago Primevo, Nuvole Molto Vecchio","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,17,"Drago Primevo, Ombre Vecchio",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,17,"Drago Primevo, Salsedine Dragone","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Freddi,Bestiario 2,17,Gigante delle Rune,Gigante,Montagne,Umanoide
+"Caldi, Temperati",Bestiario 4,17,"Formian, Regina",,"Sotterranei, Terreni",Umanoide Mostruoso
+Qualsiasi,Bestiario 4,17,Icore Immortale,Extraplanare,"Rovine, Sotterranei",Melma
+-,Bestiario 4,17,Irminsul,"Extraplanare, Mitico",Qualsiasi,Vegetale
+-,Avventure Mitiche,17,Lich Mitico,"Mitico, Umano, Umanoide Potenziato",Qualsiasi,Non Morto
+Freddi,Bestiario 1,17,"Linnorm, Ghiacci",,Montagne,Drago
+-,Bestiario 2,17,"Protean, Keketar","Caotico, Extraplanare, Mutaforma, Protean",Qualsiasi (Limbo),Esterno
+-,Bestiario 3,17,Shinigami,"Extraplanare, Legale",Qualsiasi,Esterno
+-,Bestiario 2,17,Thrasfyr,Fuoco,Qualsiasi,Bestia Magica
+Caldi,Bestiario 4,17,Tunche,,Foreste,Folletto
+Freddi,Bestiario 2,17,Wendigo,"Freddo, Nativo",Qualsiasi,Esterno
+Freddi,Bestiario 2,17,Wight Invernale,Freddo,Qualsiasi Terreno,Non Morto
+Qualsiasi,Bestiario 3,18,"Behemoth, Tonante","Behemoth, Terra",Terreni,Bestia Magica
+Qualsiasi,Bestiario 3,18,Chiappabana Confondente,,Foreste,Bestia Magica
+-,Bestiario 2,18,"Daemon, Purrodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 3,18,"Demodand, Irsuto","Caotico, Demodand, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 4,18,"Diavolo, Nemesi","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Freddi,Bestiario 2,18,Drago Bianco Dragone Vorace,Freddo,Montagne,Non Morto
+Freddi,Bestiario 1,18,"Drago Cromatico, Bianco Grande Dragone",Freddo,Montagne,Drago
+Caldi,Bestiario 1,18,"Drago Cromatico, Blu Antico",Terra,Deserti,Drago
+Caldi,Bestiario 1,18,"Drago Cromatico, Rosso Molto Vecchio",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,18,"Drago Cromatico, Verde Dragone",Aria,Foreste,Drago
+Qualsiasi,Bestiario 4,18,"Drago Esterno, Lunare Antico",,Vuoto,Drago
+Qualsiasi,Bestiario 4,18,"Drago Esterno, Solare Antico",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,18,"Drago Esterno, Tempo Vecchio",,Vuoto,Drago
+Qualsiasi,Bestiario 4,18,"Drago Esterno, Vortice Molto Vecchio",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,18,"Drago Esterno, Vuoto Antico",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,18,"Drago Imperiale, Cielo Antico",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,18,"Drago Imperiale, Foresta Molto Vecchio",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,18,"Drago Imperiale, Mare Dragone",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,18,"Drago Imperiale, Sovrano Vecchio",,Montagne,Drago
+Temperati,Bestiario 1,18,"Drago Metallico, Argento Molto Vecchio",Freddo,Montagne,Drago
+Temperati,Bestiario 1,18,"Drago Metallico, Bronzo Antico",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,18,"Drago Metallico, Oro Vecchio",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,18,"Drago Metallico, Rame Dragone",Terra,Colline,Drago
+Caldi,Bestiario 2,18,Drago Nero Antico Vorace,Acqua,Paludi,Non Morto
+Qualsiasi,Bestiario 2,18,"Drago Primevo, Cristallo Grande Dragone","Extraplanare, Terra",Sotterranei,Drago
+Qualsiasi,Bestiario 2,18,"Drago Primevo, Magma Dragone","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+Qualsiasi,Bestiario 2,18,"Drago Primevo, Nuvole Antico","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,18,"Drago Primevo, Ombre Molto Vecchio",Extraplanare,Qualsiasi,Drago
+Temperati,Bestiario 4,18,Erlking,,Foreste,Folletto
+Caldi,Avventure Mitiche,18,Fenice Mitica,"Fuoco, Mitico","Colline, Deserti",Bestia Magica
+Qualsiasi,Bestiario 1,18,Kraken,Acquatico,Oceani,Bestia Magica
+-,Bestiario 4,18,Leviatano Astrale,Extraplanare,Qualsiasi (Piano Astrale),Esterno
+Freddi,Bestiario 3,18,"Linnorm, Tumuli",,Colline,Drago
+Freddi,Bestiario 3,18,Norna,,Montagne,Folletto
+-,Bestiario 2,18,"Ombra Notturna, Verme Notturno","Extraplanare, Ombra Notturna",Qualsiasi (Piano dell'Energia Negativa),Non Morto
+Qualsiasi,Bestiario 3,18,"Oni, Yai dell'Acqua","Acqua, Acquatico, Gigante, Mutaforma, Nativo, Oni",Acquatici,Esterno
+-,Bestiario 2,18,"Qlippoth, Thulgant","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+Caldi,Bestiario 3,18,Simurgh,,"Deserti, Montagne",Bestia Magica
+Qualsiasi,Bestiario 4,18,Taniniver,,"Sotterranei, Terreni",Drago
+-,Bestiario 3,18,"Thriae, Regina",,Qualsiasi,Umanoide Mostruoso
+Freddi,Avventure Mitiche,18,Troll Jotund Mitico,"Gigante, Mitico","Colline, Montagne",Umanoide
+-,Bestiario 2,19,"Arconte, Stella","Arconte, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+Qualsiasi,Bestiario 3,19,Chiappabana Fumante,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 3,19,Chiappabana Primitivo,Extraplanare,Foreste,Bestia Magica
+Qualsiasi,Bestiario 4,19,"Colosso, Pietra","Colosso, Mitico",Terreni,Costrutto
+-,Bestiario 2,19,"Demone, Vrolikai","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 2,19,"Diavolo, Immolatore","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Caldi,Bestiario 1,19,"Drago Cromatico, Blu Dragone",Terra,Deserti,Drago
+Caldi,Bestiario 1,19,"Drago Cromatico, Nero Grande Dragone",Acqua,Paludi,Drago
+Caldi,Bestiario 1,19,"Drago Cromatico, Rosso Antico",Fuoco,Montagne,Drago
+Qualsiasi,Bestiario 4,19,"Drago Esterno, Lunare Dragone",,Vuoto,Drago
+Qualsiasi,Bestiario 4,19,"Drago Esterno, Solare Dragone",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,19,"Drago Esterno, Tempo Molto Vecchio",,Vuoto,Drago
+Qualsiasi,Bestiario 4,19,"Drago Esterno, Vortice Antico",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,19,"Drago Esterno, Vuoto Dragone",,Vuoto,Drago
+"Caldi, Temperati",Bestiario 3,19,"Drago Imperiale, Cielo Dragone",Aria,Montagne,Drago
+Qualsiasi,Bestiario 3,19,"Drago Imperiale, Foresta Antico",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,19,"Drago Imperiale, Sottosuolo Grande Dragone",Fuoco,Sotterranei,Drago
+Qualsiasi,Bestiario 3,19,"Drago Imperiale, Sovrano Molto Vecchio",,Montagne,Drago
+Temperati,Bestiario 1,19,"Drago Metallico, Argento Antico",Freddo,Montagne,Drago
+Temperati,Bestiario 1,19,"Drago Metallico, Bronzo Dragone",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,19,"Drago Metallico, Oro Molto Vecchio",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,19,"Drago Metallico, Ottone Grande Dragone",Fuoco,Deserti,Drago
+Qualsiasi,Bestiario 2,19,"Drago Primevo, Nuvole Dragone","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+-,Bestiario 2,19,"Drago Primevo, Ombre Antico",Extraplanare,Qualsiasi,Drago
+Qualsiasi,Bestiario 2,19,"Drago Primevo, Salsedine Grande Dragone","Extraplanare, Acqua",Acquatici (Piano dell'Acqua),Drago
+Caldi,Bestiario 2,19,Drago Nero Dragone Vorace,Acqua,Paludi,Non Morto
+Temperati,Bestiario 2,19,Drago Verde Antico Vorace,Aria,Foreste,Non Morto
+-,Bestiario 2,19,"Golem, Adamantio",,Qualsiasi,Costrutto
+Freddi,Bestiario 4,19,Grendel,Mitico,Paludi,Umanoide Mostruoso
+Qualsiasi,Bestiario 3,19,Humbaba,,Foreste,Umanoide Mostruoso
+Freddi,Bestiario 3,19,"Linnorm, Taiga",,Foreste,Drago
+-,Bestiario 3,19,"Meccanico, Golia",Meccanico,Qualsiasi,Costrutto
+Qualsiasi,Bestiario 2,19,Sard,,Foreste,Vegetale
+Qualsiasi,Bestiario 3,19,Serpente Marino Abissale,Acquatico,Oceani,Bestia Magica
+Freddi,Bestiario 1,19,Shoggoth,Acquatico,"Acque, Sotterranei",Melma
+-,Bestiario 3,19,Tzitzimitl,,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 2,2,"Agathion, Draconal Bianco","Agathion, Buono, Extraplanare",Aria (Nirvana),Esterno
+Qualsiasi,Bestiario 2,2,"Agathion, Draconal Giallo","Agathion, Buono, Extraplanare",Aria (Nirvana),Esterno
+Qualsiasi,Bestiario 2,2,"Agathion, Draconal Nero","Agathion, Buono, Extraplanare",Aria (Nirvana),Esterno
+Qualsiasi,Bestiario 2,2,"Agathion, Draconal Rosso","Agathion, Buono, Extraplanare",Aria (Nirvana),Esterno
+Qualsiasi,Bestiario 2,2,"Agathion, Draconal Verde","Agathion, Buono, Extraplanare",Aria (Nirvana),Esterno
+-,Bestiario 3,2,"Asura, Asurendra","Asura, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+Qualsiasi,Bestiario 3,2,"Behemoth, Talassico","Acqua, Acquatico, Behemoth",Acque,Bestia Magica
+Qualsiasi,Bestiario 3,2,Chiappabana Antimagia,,Foreste,Bestia Magica
+Qualsiasi,Bestiario 2,2,Ciciarampa Minore,"Aria, Fuoco",Foreste,Drago
+-,Bestiario 2,2,"Daemon, Oletrodaemon","Daemon, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+-,Bestiario 1,2,"Demone, Balor","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,2,"Diavolo, Fossa","Diavolo, Extraplanare, Legale, Malvagio",Qualsiasi (Inferno),Esterno
+-,Bestiario 3,2,"Div, Akvan","Div, Extraplanare, Malvagio",Qualsiasi (Abaddon),Esterno
+Freddi,Bestiario 2,2,Drago Bianco Grande Dragone Vorace,Freddo,Montagne,Non Morto
+Caldi,Bestiario 2,2,Drago Blu Antico Vorace,Terra,Deserti,Non Morto
+Caldi,Bestiario 1,2,"Drago Cromatico, Rosso Dragone",Fuoco,Montagne,Drago
+Temperati,Bestiario 1,2,"Drago Cromatico, Verde Grande Dragone",Aria,Foreste,Drago
+Temperati,Avventure Mitiche,2,"Drago Cromatico, Verde Molto Vecchio Mitico","Aria, Mitico",Foreste,Drago
+Qualsiasi,Bestiario 4,2,"Drago Esterno, Tempo Antico",,Vuoto,Drago
+Qualsiasi,Bestiario 4,2,"Drago Esterno, Vortice Dragone",Fuoco,Vuoto,Drago
+Temperati,Bestiario 1,2,"Drago Metallico, Argento Dragone",Freddo,Montagne,Drago
+Caldi,Bestiario 1,2,"Drago Metallico, Oro Antico",Fuoco,Pianure,Drago
+Caldi,Bestiario 1,2,"Drago Metallico, Rame Grande Dragone",Terra,Colline,Drago
+Qualsiasi,Bestiario 2,2,"Drago Primevo, Magma Grande Dragone","Extraplanare, Fuoco","Montagne, Sotterranei (Piano del Fuoco)",Drago
+-,Bestiario 2,2,"Drago Primevo, Ombre Dragone",Extraplanare,Qualsiasi,Drago
+Temperati,Bestiario 2,2,Drago Verde Dragone Vorace,Aria,Foreste,Non Morto
+Qualsiasi,Bestiario 3,2,"Drago Imperiale, Foresta Dragone",Terra,Foreste,Drago
+Qualsiasi,Bestiario 3,2,"Drago Imperiale, Mare Grande Dragone",Acqua,Acquatici,Drago
+Qualsiasi,Bestiario 3,2,"Drago Imperiale, Sovrano Antico",,Montagne,Drago
+-,Bestiario 2,2,"Eone, Pleroma","Eone, Extraplanare",Qualsiasi (Piani Esterni),Esterno
+-,Bestiario 2,2,"Inevitabile, Lhaksharut","Extraplanare, Inevitabile, Legale",Qualsiasi,Esterno
+-,Bestiario 3,2,"Kyton, Eremita","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+-,Bestiario 3,2,"Kami, Jinushigami","Kami, Nativo, Terra",Qualsiasi,Esterno
+Freddi,Bestiario 1,2,"Linnorm, Laghi",Acquatico,Paludi,Drago
+-,Bestiario 2,2,"Ombra Notturna, Onda Notturna","Acquatico, Extraplanare, Ombra Notturna",Qualsiasi (Piano dell'Energia Negativa),Non Morto
+"Freddi, Temperati",Bestiario 3,2,"Oni, Yai del Vuoto","Gigante, Mutaforma, Nativo, Oni",Montagne,Esterno
+-,Bestiario 4,2,Progenie Stellare di Cthulhu,,Qualsiasi,Aberrazione
+-,Bestiario 4,2,"Psicopompo, Yamaraj","Extraplanare, Psicopompo",Qualsiasi (Purgatorio),Esterno
+-,Bestiario 2,2,"Qlippoth, Iathavos","Caotico, Extraplanare, Malvagio, Qlippoth",Qualsiasi (Abisso),Esterno
+-,Bestiario 3,2,"Rakshasa, Maragià","Mutaforma, Nativo, Rakshasa",Qualsiasi,Esterno
+-,Avventure Mitiche,21,"Demone, Marilith Mitica","Caotico, Demone, Extraplanare, Malvagio, Mitico",Qualsiasi (Abisso),Esterno
+Caldi,Bestiario 2,21,Drago Blu Dragone Vorace,Terra,Deserti,Non Morto
+Caldi,Bestiario 1,21,"Drago Cromatico, Blu Grande Dragone",Terra,Deserti,Drago
+Qualsiasi,Bestiario 4,21,"Drago Esterno, Lunare Grande Dragone",,Vuoto,Drago
+Qualsiasi,Bestiario 4,21,"Drago Esterno, Solare Grande Dragone",Fuoco,Vuoto,Drago
+Qualsiasi,Bestiario 4,21,"Drago Esterno, Tempo Dragone",,Vuoto,Drago
+Qualsiasi,Bestiario 4,21,"Drago Esterno, Vuoto Grande Dragone",,Vuoto,Drago
+Temperati,Bestiario 1,21,"Drago Metallico, Bronzo Grande Dragone",Acqua,Zone Costiere,Drago
+Caldi,Bestiario 1,21,"Drago Metallico, Oro Dragone",Fuoco,Pianure,Drago
+"Caldi, Temperati",Bestiario 3,21,"Drago Imperiale, Cielo Grande Dragone",Aria,Montagne,Drago
+-,Bestiario 2,21,Drago delle Ombre Antico Vorace,Extraplanare,Qualsiasi,Non Morto
+Caldi,Bestiario 2,21,Drago Nero Grande Dragone Vorace,Acqua,Paludi,Non Morto
+Qualsiasi,Bestiario 2,21,"Drago Primevo, Nuvole Grande Dragone","Extraplanare, Aria",Cieli (Piano dell'Aria),Drago
+Caldi,Bestiario 2,21,Drago Rosso Antico Vorace,Fuoco,Montagne,Non Morto
+Qualsiasi,Bestiario 3,21,"Drago Imperiale, Sovrano Dragone",,Montagne,Drago
+Qualsiasi,Bestiario 4,21,Julunggali,"Acquatico, Extraplanare, Mitico, Mutaforma","Acque, Terreni",Bestia Magica
+Freddi,Bestiario 3,21,"Linnorm, Pinnacoli",,Montagne Vulcaniche,Drago
+-,Bestiario 2,21,Spora Mu,,Qualsiasi,Vegetale
+-,Bestiario 2,21,Titano Eliseo,"Buono, Caotico, Extraplanare",Qualsiasi (Elysium),Esterno
+Qualsiasi,Bestiario 3,22,"Behemoth, Tempestoso","Aria, Behemoth",Aria,Bestia Magica
+Caldi,Bestiario 1,22,"Drago Cromatico, Rosso Grande Dragone",Fuoco,Montagne,Drago
+-,Bestiario 2,22,Drago delle Ombre Dragone Vorace,Extraplanare,Qualsiasi,Non Morto
+Qualsiasi,Bestiario 4,22,"Drago Esterno, Vortice Grande Dragone",Fuoco,Vuoto,Drago
+Temperati,Bestiario 1,22,"Drago Metallico, Argento Grande Dragone",Freddo,Montagne,Drago
+-,Bestiario 2,22,"Drago Primevo, Ombre Grande Dragone",Extraplanare,Qualsiasi,Drago
+Caldi,Bestiario 2,22,Drago Rosso Dragone Vorace,Fuoco,Montagne,Non Morto
+Temperati,Bestiario 2,22,Drago Verde Grande Dragone Vorace,Aria,Foreste,Non Morto
+Qualsiasi,Bestiario 3,22,"Drago Imperiale, Foresta Grande Dragone",Terra,Foreste,Drago
+-,Bestiario 3,22,"Kyton, Eremita Sovrano","Extraplanare, Kyton, Legale, Malvagio",Qualsiasi (Piano delle Ombre),Esterno
+-,Bestiario 2,22,Titano Eliseo Profeta,"Buono, Caotico, Extraplanare",Qualsiasi (Elisio),Esterno
+-,Bestiario 4,22,Titano Fomoriano,"Caotico, Extraplanare, Malvagio, Mitico",Qualsiasi (Abisso),Esterno
+-,Bestiario 2,22,Titano Tanatotico,"Caotico, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,23,"Angelo, Solar","Angelo, Buono, Extraplanare",Qualsiasi Piano di Allineamento Buono,Esterno
+Qualsiasi,Bestiario 2,23,Ciciarampa,"Aria, Fuoco",Foreste,Drago
+Caldi,Bestiario 2,23,Drago Blu Grande Dragone Vorace,Terra,Deserti,Non Morto
+Qualsiasi,Bestiario 4,23,"Drago Esterno, Tempo Grande Dragone",,Vuoto,Drago
+Caldi,Bestiario 1,23,"Drago Metallico, Oro Grande Dragone",Fuoco,Pianure,Drago
+Qualsiasi,Bestiario 3,23,"Drago Imperiale, Sovrano Grande Dragone",,Montagne,Drago
+-,Bestiario 4,23,Elohim,"Extraplanare, Mitico",Qualsiasi (Extraplanare),Esterno
+-,Bestiario 2,24,Drago delle Ombre Grande Dragone Vorace,Extraplanare,Qualsiasi,Non Morto
+-,Bestiario 4,24,Drago Guardiano,"Acquatico, Mitico",Qualsiasi,Drago
+Caldi,Bestiario 2,24,Drago Rosso Grande Dragone Vorace,Fuoco,Montagne,Non Morto
+-,Bestiario 3,24,"Titano, Ecatonchiro","Caotico, Extraplanare, Malvagio",Qualsiasi,Esterno
+-,Bestiario 1,25,"Demone, Signore dei Balor","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 1,25,"Diavolo, Duca Infernale","Legale, Diavolo, Extraplanare, Malvagio",Qualsiasi,Esterno
+Caldi,Avventure Mitiche,25,"Drago Cromatico, Rosso Grande Dragone Mitico","Fuoco, Mitico",Montagne,Drago
+-,Bestiario 4,25,Drakainia,Mitico,Qualsiasi,Aberrazione
+-,Bestiario 1,25,Tarrasque,,Qualsiasi,Bestia Magica
+Caldi,Bestiario 4,26,"Kaiju, Bezravnis","Kaiju, Terra",Deserti,Bestia Magica
+Qualsiasi,Bestiario 4,26,"Signore Empireo, Korada","Agathion, Extraplanare","Foreste, Montagne (Nirvana)",Esterno
+Freddi,Bestiario 4,26,"Signore dei Demoni, Kostchtchie","Caotico, Demone, Extraplanare, Freddo, Malvagio",Qualsiasi (Abisso),Esterno
+Qualsiasi,Bestiario 4,27,"Grande Antico, Bokrug","Acquatico, Caotico, Extraplanare, Grande Antico",Acqua,Bestia Magica
+Caldi,Bestiario 4,27,"Kaiju, Agyra","Aria, Kaiju",Montagne,Bestia Magica
+-,Bestiario 4,27,"Signore dei Demoni, Xoveron","Caotico, Demone, Extraplanare, Malvagio","Qualsiasi (Abisso, Ghahazi)",Esterno
+Caldi,Bestiario 4,28,"Kaiju, Mogaru","Acqua, Kaiju","Acque, Foreste",Bestia Magica
+Qualsiasi,Bestiario 4,28,"Signore dei Demoni, Dagon","Acqua, Caotico, Demone, Extraplanare, Malvagio",Oceani (Abisso),Esterno
+-,Bestiario 4,28,"Signore dei Demoni, Shax","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 4,28,"Signore dei Demoni, Sifkesh","Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+-,Bestiario 4,28,"Signore Empireo, Vildeis","Angelo, Buono, Extraplanare, Legale",Qualsiasi (Paradiso),Esterno
+-,Bestiario 4,29,"Grande Antico, Hastur","Caotico, Grande Antico, Malvagio",Qualsiasi,Aberrazione
+-,Bestiario 4,3,"Grande Antico, Cthulhu","Caotico, Grande Antico, Malvagio",Qualsiasi (R'lyeh),Aberrazione
+-,Bestiario 4,3,"Signore dei Demoni, Pazuzu","Aria, Caotico, Demone, Extraplanare, Malvagio",Qualsiasi (Abisso),Esterno
+Qualsiasi,Bestiario 4,3,"Signore Empireo, Cernunnos","Azata, Buono, Caotico, Extraplanare","Foreste, Pianure (Elysium)",Esterno
