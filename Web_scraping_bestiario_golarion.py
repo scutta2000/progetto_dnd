@@ -50,11 +50,12 @@ for row in table.find_elements_by_xpath('./tr'):
 
     fonte.append(tds[6].text)
 
-    if i%25==0:
+    if i%50==0:
         print('row',i)
 
     i+=1
 
 driver.close()
 df = pd.DataFrame({'Nome':nome,'Gs':gs, 'Terreno':terreno, 'Clima':clima, 'Tipo':tipo, 'Sottotipo':sottotipo, 'Fonte':fonte})
-df.to_csv('C:/Users/scutt/OneDrive - studenti.unimi.it/Python/Web Scraping/bestiario.csv', index=False, encoding='utf-8')
+# df.info()
+df.to_json(path_or_buf='bestiario.json', orient="table")
